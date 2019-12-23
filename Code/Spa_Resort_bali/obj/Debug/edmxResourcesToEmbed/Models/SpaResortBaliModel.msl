@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Spa_Resort_Bali_DatabaseModelStoreContainer" CdmEntityContainer="Spa_Resort_Bali_DatabaseEntities">
+    <EntitySetMapping Name="Addresses">
+      <EntityTypeMapping TypeName="Spa_Resort_Bali_DatabaseModel.Addresses">
+        <MappingFragment StoreEntitySet="Addresses">
+          <ScalarProperty Name="AdresId" ColumnName="AdresId" />
+          <ScalarProperty Name="PostCode" ColumnName="PostCode" />
+          <ScalarProperty Name="Streed" ColumnName="Streed" />
+          <ScalarProperty Name="HouseNumber" ColumnName="HouseNumber" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="Counrty" ColumnName="Counrty" />
+          <ScalarProperty Name="State" ColumnName="State" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AspNetRoles">
+      <EntityTypeMapping TypeName="Spa_Resort_Bali_DatabaseModel.AspNetRoles">
+        <MappingFragment StoreEntitySet="AspNetRoles">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AspNetUserClaims">
+      <EntityTypeMapping TypeName="Spa_Resort_Bali_DatabaseModel.AspNetUserClaims">
+        <MappingFragment StoreEntitySet="AspNetUserClaims">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="ClaimType" ColumnName="ClaimType" />
+          <ScalarProperty Name="ClaimValue" ColumnName="ClaimValue" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AspNetUserLogins">
+      <EntityTypeMapping TypeName="Spa_Resort_Bali_DatabaseModel.AspNetUserLogins">
+        <MappingFragment StoreEntitySet="AspNetUserLogins">
+          <ScalarProperty Name="LoginProvider" ColumnName="LoginProvider" />
+          <ScalarProperty Name="ProviderKey" ColumnName="ProviderKey" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AspNetUsers">
+      <EntityTypeMapping TypeName="Spa_Resort_Bali_DatabaseModel.AspNetUsers">
+        <MappingFragment StoreEntitySet="AspNetUsers">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="EmailConfirmed" ColumnName="EmailConfirmed" />
+          <ScalarProperty Name="PasswordHash" ColumnName="PasswordHash" />
+          <ScalarProperty Name="SecurityStamp" ColumnName="SecurityStamp" />
+          <ScalarProperty Name="PhoneNumber" ColumnName="PhoneNumber" />
+          <ScalarProperty Name="PhoneNumberConfirmed" ColumnName="PhoneNumberConfirmed" />
+          <ScalarProperty Name="TwoFactorEnabled" ColumnName="TwoFactorEnabled" />
+          <ScalarProperty Name="LockoutEndDateUtc" ColumnName="LockoutEndDateUtc" />
+          <ScalarProperty Name="LockoutEnabled" ColumnName="LockoutEnabled" />
+          <ScalarProperty Name="AccessFailedCount" ColumnName="AccessFailedCount" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="AdressId" ColumnName="AdressId" />
+          <ScalarProperty Name="Firstname" ColumnName="Firstname" />
+          <ScalarProperty Name="Lastname" ColumnName="Lastname" />
+          <ScalarProperty Name="DateOfBirth" ColumnName="DateOfBirth" />
+          <ScalarProperty Name="ClientNumber" ColumnName="ClientNumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Bookings">
+      <EntityTypeMapping TypeName="Spa_Resort_Bali_DatabaseModel.Bookings">
+        <MappingFragment StoreEntitySet="Bookings">
+          <ScalarProperty Name="Canceled" ColumnName="Canceled" />
+          <ScalarProperty Name="BookingId" ColumnName="BookingId" />
+          <ScalarProperty Name="CheckInDate" ColumnName="CheckInDate" />
+          <ScalarProperty Name="CheckOutDate" ColumnName="CheckOutDate" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="LodgeId" ColumnName="LodgeId" />
+          <ScalarProperty Name="Discount" ColumnName="Discount" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Lodges">
+      <EntityTypeMapping TypeName="Spa_Resort_Bali_DatabaseModel.Lodges">
+        <MappingFragment StoreEntitySet="Lodges">
+          <ScalarProperty Name="Disabled" ColumnName="Disabled" />
+          <ScalarProperty Name="LodgeId" ColumnName="LodgeId" />
+          <ScalarProperty Name="LodgeTypeId" ColumnName="LodgeTypeId" />
+          <ScalarProperty Name="AdresId" ColumnName="AdresId" />
+          <ScalarProperty Name="Code" ColumnName="Code" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LodgeTypes">
+      <EntityTypeMapping TypeName="Spa_Resort_Bali_DatabaseModel.LodgeTypes">
+        <MappingFragment StoreEntitySet="LodgeTypes">
+          <ScalarProperty Name="Disabled" ColumnName="Disabled" />
+          <ScalarProperty Name="Picture" ColumnName="Picture" />
+          <ScalarProperty Name="LodgeTypeId" ColumnName="LodgeTypeId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Surface" ColumnName="Surface" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="MaxPersons" ColumnName="MaxPersons" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="AspNetUserRoles" TypeName="Spa_Resort_Bali_DatabaseModel.AspNetUserRoles" StoreEntitySet="AspNetUserRoles">
+      <EndProperty Name="AspNetRoles">
+        <ScalarProperty Name="Id" ColumnName="RoleId" />
+      </EndProperty>
+      <EndProperty Name="AspNetUsers">
+        <ScalarProperty Name="Id" ColumnName="UserId" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <FunctionImportMapping FunctionImportName="spGetDiscount" FunctionName="Spa_Resort_Bali_DatabaseModel.Store.spGetDiscount" />
+    <FunctionImportMapping FunctionImportName="spGetLodgePrice" FunctionName="Spa_Resort_Bali_DatabaseModel.Store.spGetLodgePrice" />
+    <EntitySetMapping Name="Discounts">
+      <EntityTypeMapping TypeName="Spa_Resort_Bali_DatabaseModel.Discounts">
+        <MappingFragment StoreEntitySet="Discounts">
+          <ScalarProperty Name="Year" ColumnName="Year" />
+          <ScalarProperty Name="Discount" ColumnName="Discount" />
+          <ScalarProperty Name="Month" ColumnName="Month" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LodgePrice">
+      <EntityTypeMapping TypeName="Spa_Resort_Bali_DatabaseModel.LodgePrice">
+        <MappingFragment StoreEntitySet="LodgePrice">
+          <ScalarProperty Name="LodgeTypeId" ColumnName="LodgeTypeId" />
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="EndDate" ColumnName="EndDate" />
+          <ScalarProperty Name="StartingDate" ColumnName="StartingDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

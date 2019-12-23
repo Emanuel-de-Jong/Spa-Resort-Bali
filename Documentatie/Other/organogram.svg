@@ -1,0 +1,1693 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Gegenereerd door Microsoft Visio, SVG Export organogram.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="11.6929in" height="8.26772in"
+		viewBox="0 0 841.89 595.276" xml:space="preserve" color-interpolation-filters="sRGB" class="st18">
+	<v:documentProperties v:langID="1043" v:metric="true" v:viewMarkup="false">
+		<v:custProps>
+			<v:cp v:nameU="WantAutoLayout" v:langID="1043" v:cal="0" v:val="VT0(1):26"/>
+			<v:cp v:nameU="CustomLayoutsAllowed" v:langID="1043" v:cal="0" v:val="VT0(0):26"/>
+			<v:cp v:nameU="WantAutoSize" v:langID="1043" v:cal="0" v:val="VT0(1):26"/>
+			<v:cp v:nameU="ShowDivider" v:langID="1043" v:cal="0" v:val="VT0(0):26"/>
+			<v:cp v:nameU="GridGranularity" v:langID="1043" v:cal="0" v:val="VT0(0.039370078740157):24"/>
+			<v:cp v:nameU="Theme" v:langID="1043" v:cal="0" v:val="VT4(Classic)"/>
+			<v:cp v:nameU="TOPLINESTYLE" v:langID="1043" v:cal="0" v:val="VT0(0):26"/>
+			<v:cp v:nameU="TOOLBARLOCATION" v:langID="1043" v:cal="0" v:val="VT0(4):26"/>
+		</v:custProps>
+		<v:userDefs>
+			<v:ud v:nameU="BOXWIDTH" v:val="VT0(1.1811023622047):24"/>
+			<v:ud v:nameU="BOXHEIGHT" v:val="VT0(0.59055118110236):24"/>
+			<v:ud v:nameU="HASSYNCCOPIES" v:val="VT0(1):26"/>
+			<v:ud v:nameU="OCNumDisplayFields" v:val="VT0(2):26"/>
+			<v:ud v:nameU="visPPO" v:val="VT0(2):26"/>
+			<v:ud v:nameU="DocShowPicture" v:prompt="" v:val="VT0(1):26"/>
+			<v:ud v:nameU="DocShowDivider" v:prompt="" v:val="VT0(1):26"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+			<v:ud v:nameU="msvNoSubprocess" v:prompt="" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {marker-end:url(#mrkr5-6);stroke:#4672c4;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st2 {fill:#4672c4;fill-opacity:1;stroke:#4672c4;stroke-opacity:1;stroke-width:0.37313432835821}
+		.st3 {fill:#203864;stroke:#30518f;stroke-width:0.75}
+		.st4 {fill:#feffff}
+		.st5 {fill:none}
+		.st6 {stroke:#30518f;stroke-width:0.75;visibility:hidden}
+		.st7 {fill:#ffffff;stroke:#717171;stroke-width:0.24;visibility:hidden}
+		.st8 {fill:#cc3808;stroke:#c7c8c8;stroke-width:0.25;visibility:hidden}
+		.st9 {fill:#feffff;font-family:Calibri;font-size:0.666664em}
+		.st10 {fill:none;stroke:none;stroke-width:0.75;visibility:hidden}
+		.st11 {fill:#203864;stroke:#4672c4;stroke-width:0.75;visibility:hidden}
+		.st12 {fill:#305497;stroke:#c7c8c8;stroke-width:0.25}
+		.st13 {stroke:#c7c8c8;stroke-width:0.25;visibility:hidden}
+		.st14 {fill:none;stroke:none;stroke-width:0.25;visibility:hidden}
+		.st15 {fill:#305497;stroke:#4672c4;stroke-width:0.25;visibility:hidden}
+		.st16 {fill:#4672c4;stroke:#c7c8c8;stroke-width:0.25}
+		.st17 {fill:#4672c4;stroke:#4672c4;stroke-width:0.25;visibility:hidden}
+		.st18 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend5">
+			<path d="M 2 1 L 0 0 L 1.98117 -0.993387 C 1.67173 -0.364515 1.67301 0.372641 1.98465 1.00043 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr5-6" class="st2" v:arrowType="5" v:arrowSize="2" v:setback="4.69" refX="-4.69" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(-2.68,-2.68) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:custProps>
+			<v:cp v:nameU="Theme" v:type="1" v:format="Klassiek;Modern;Elegant;Kladblok;Retro" v:invis="true" v:langID="1043"
+					v:cal="0" v:val="VT4(Klassiek)"/>
+			<v:cp v:nameU="ShapeClass" v:lbl="Shapeklasse" v:type="1" v:invis="true" v:langID="1043" v:cal="0"
+					v:val="VT4({52BC4E31-A33B-11d1-B2B9-006008BD347E})"/>
+		</v:custProps>
+		<v:userDefs>
+			<v:ud v:nameU="DocClass" v:prompt="Organization Chart Document" v:val="VT4({429428D1-A7E7-11d1-B2BD-006008BD347E})"/>
+			<v:ud v:nameU="AllowShapeMoveCallback" v:val="VT0(1):26"/>
+			<v:ud v:nameU="Theme" v:val="VT0(0):26"/>
+			<v:ud v:nameU="AllowCtrlMoveCallback" v:val="VT0(1):26"/>
+			<v:ud v:nameU="SCALECHANGEDEVENT" v:val="VT0(0):26"/>
+			<v:ud v:nameU="BOXWIDTH" v:val="VT0(-0.039370078740157):24"/>
+			<v:ud v:nameU="BOXHEIGHT" v:val="VT0(-0.039370078740157):24"/>
+			<v:ud v:nameU="OCNumDisplayFields" v:val="VT0(2):26"/>
+			<v:ud v:nameU="OrgChartStyle" v:prompt="" v:val="VT0(3):26"/>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>Pagina-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape62-1" v:mID="62" v:groupContext="shape" transform="translate(430.742,-439.487)">
+			<title>Aanvullende directe Manager</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="OrgChartStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="OrgChartStyle" v:prompt="" v:val="VT0(3):26"/>
+			</v:userDefs>
+			<path d="M-7.09 595.28 L-7.09 650.84" class="st1"/>
+		</g>
+		<g id="shape90-7" v:mID="90" v:groupContext="shape" transform="translate(416.569,-272.126)">
+			<title>Aanvullende directe Manager.90</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="OrgChartStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="OrgChartStyle" v:prompt="" v:val="VT0(3):26"/>
+			</v:userDefs>
+			<path d="M7.09 595.28 L7.09 671.92" class="st1"/>
+		</g>
+		<g id="shape99-12" v:mID="99" v:groupContext="shape" transform="translate(423.656,-439.487)">
+			<title>Aanvullende directe Manager.99</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="OrgChartStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="OrgChartStyle" v:prompt="" v:val="VT0(3):26"/>
+			</v:userDefs>
+			<path d="M0 595.28 L0 608.03 A8.50394 8.50394 -180 0 0 8.5 616.53 L236.57 616.53 A8.50394 8.50394 0 0 1 245.07 625.04
+						 L245.07 650.84" class="st1"/>
+		</g>
+		<g id="shape100-17" v:mID="100" v:groupContext="shape" transform="translate(675.815,-272.126)">
+			<title>Aanvullende directe Manager.100</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="OrgChartStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="OrgChartStyle" v:prompt="" v:val="VT0(3):26"/>
+			</v:userDefs>
+			<path d="M-7.09 595.28 L-7.09 671.92" class="st1"/>
+		</g>
+		<g id="shape139-22" v:mID="139" v:groupContext="shape" transform="translate(423.656,-439.487)">
+			<title>Aanvullende directe Manager.139</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="OrgChartStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="OrgChartStyle" v:prompt="" v:val="VT0(3):26"/>
+			</v:userDefs>
+			<path d="M0 595.28 L0 608.03 A8.50394 8.50394 0 0 1 -8.5 616.53 L-236.57 616.53 A8.50394 8.50394 -180 0 0 -245.07 625.04
+						 L-245.07 650.84" class="st1"/>
+		</g>
+		<g id="shape140-27" v:mID="140" v:groupContext="shape" transform="translate(185.669,-272.126)">
+			<title>Aanvullende directe Manager.140</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="OrgChartStyle" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="OrgChartStyle" v:prompt="" v:val="VT0(3):26"/>
+			</v:userDefs>
+			<path d="M-7.09 595.28 L-7.09 671.92" class="st1"/>
+		</g>
+		<g id="group229-32" transform="translate(326.374,-439.487)" v:mID="229" v:groupContext="group">
+			<v:custProps>
+				<v:cp v:nameU="Department" v:lbl="Afdeling" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0" v:val="VT4(Afdeling)"/>
+				<v:cp v:nameU="Telephone" v:lbl="Telefoon" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0" v:val="VT4(Telefoon)"/>
+				<v:cp v:nameU="Name" v:lbl="Naam" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1043" v:cal="0" v:val="VT4(Naam)"/>
+				<v:cp v:nameU="Title" v:lbl="Titel" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1043" v:cal="0" v:val="VT4(Titel)"/>
+				<v:cp v:nameU="Email" v:lbl="E-mail" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1043" v:cal="0" v:val="VT4(E-mail)"/>
+				<v:cp v:nameU="Name" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1033" v:cal="0" v:val="VT4(Peter Stuiversand)"/>
+				<v:cp v:nameU="Title" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1033" v:cal="0" v:val="VT4(manager)"/>
+				<v:cp v:nameU="Calendar" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="0" v:cal="0" v:val="VT0(0):26"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="Solsh" v:prompt="" v:val="VT15({0BF98B35-200C-41D5-8A23-20EF77CBC94A}):41"/>
+				<v:ud v:nameU="msvReplaceClass" v:prompt="" v:val="VT4(visOrgChart)"/>
+				<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ShowPicture" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="ShowSubordinates" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="DocShowPicture" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="Margin" v:prompt="" v:val="VT0(0.039370078740157):24"/>
+				<v:ud v:nameU="HasSubordinates" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="IsHidingSubs" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="ShowDivider" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ThisLayoutStyle" v:prompt="" v:val="VT0(100):26"/>
+				<v:ud v:nameU="HasPicture" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="Width" v:prompt="" v:val="VT0(1.625):1"/>
+				<v:ud v:nameU="Height" v:prompt="" v:val="VT0(0.875):1"/>
+				<v:ud v:nameU="Prop" v:prompt="" v:val="VT4(Title)"/>
+				<v:ud v:nameU="PictureAspectRatio" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="SetWidth" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="SetHeight" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PositionID" v:prompt="" v:val="VT15({9E7AC1AB-5C37-4D8A-897A-8405C45EA52D}):41"/>
+				<v:ud v:nameU="DeltaX" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="DeltaY" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ParLocX" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ParLocY" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ParLoc" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PictureWidth" v:prompt="" v:val="VT0(0.54166666666667):1"/>
+				<v:ud v:nameU="PictureHeight" v:prompt="" v:val="VT0(0.54166666666667):1"/>
+				<v:ud v:nameU="PictureAreaAspectRatio" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="DividerOffset" v:prompt="" v:val="VT0(0.37083333333333):29"/>
+				<v:ud v:nameU="CalcTextLineHeight" v:prompt="" v:val="VT0(0.13333333333333):29"/>
+				<v:ud v:nameU="DontExpand" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="ExpandedForPicture" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="Theme" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="PicturePinX" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PicturePinY" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvLayoutIncludeSubshapes" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#638bad)"/>
+				<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#638bad)"/>
+				<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PageLoc" v:prompt="" v:val="VT7(PNT(0,0)):40"/>
+				<v:ud v:nameU="CharSize" v:prompt="" v:val="VT0(0.11111111111111):29"/>
+				<v:ud v:nameU="GlowSize" v:prompt="" v:val="VT0(0):3"/>
+				<v:ud v:nameU="OrgChartStyle" v:prompt="" v:val="VT0(3):26"/>
+				<v:ud v:nameU="Visible" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="PipSize" v:prompt="" v:val="VT0(0.078740157480315):24"/>
+				<v:ud v:nameU="TextNamePinX" v:prompt="" v:val="VT0(0.74479166666667):1"/>
+				<v:ud v:nameU="TextNamePinY" v:prompt="" v:val="VT0(0.4375):1"/>
+				<v:ud v:nameU="TextListPinX" v:prompt="" v:val="VT0(0.74479166666667):1"/>
+				<v:ud v:nameU="TextListPinY" v:prompt="" v:val="VT0(0.4375):1"/>
+				<v:ud v:nameU="ChangeType" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="LastWidthScale" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="LastHeightScale" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="WidthScale" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="HeightScale" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="Widths" v:prompt="" v:val="VT0(1.625):26"/>
+				<v:ud v:nameU="Heights" v:prompt="" v:val="VT0(0.875):26"/>
+				<v:ud v:nameU="CharResize" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="ThisLayoutStyle" v:prompt="" v:val="VT0(100):26"/>
+				<v:ud v:nameU="Width" v:prompt="" v:val="VT0(2.7022637796162):1"/>
+				<v:ud v:nameU="Height" v:prompt="" v:val="VT0(1.455065112101):1"/>
+				<v:ud v:nameU="PictureWidth" v:prompt="" v:val="VT0(0.9007545932054):1"/>
+				<v:ud v:nameU="PictureHeight" v:prompt="" v:val="VT0(0.9007545932054):1"/>
+				<v:ud v:nameU="DividerOffset" v:prompt="" v:val="VT0(0.6608906350707):29"/>
+				<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#203864)"/>
+				<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#203864)"/>
+				<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#4672c4)"/>
+				<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#feffff)"/>
+				<v:ud v:nameU="TextNamePinX" v:prompt="" v:val="VT0(1.2385375656574):1"/>
+				<v:ud v:nameU="TextNamePinY" v:prompt="" v:val="VT0(0.72753255605052):1"/>
+				<v:ud v:nameU="TextListPinX" v:prompt="" v:val="VT0(1.2385375656574):1"/>
+				<v:ud v:nameU="TextListPinY" v:prompt="" v:val="VT0(0.72753255605052):1"/>
+			</v:userDefs>
+			<title>Executive pip</title>
+			<desc>manager</desc>
+			<g id="group230-33" transform="translate(89.1747,-52.3823)" v:mID="230" v:groupContext="group">
+				<v:userDefs>
+					<v:ud v:nameU="msvReplaceSubshapeID" v:prompt="" v:val="VT4(NameText)"/>
+					<v:ud v:nameU="Prop" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="BlockName" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="InUse" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CharSize" v:prompt="" v:val="VT0(0.11111111111111):29"/>
+					<v:ud v:nameU="Visible" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="Prop" v:prompt="" v:val="VT4(Name)"/>
+					<v:ud v:nameU="InUse" v:prompt="" v:val="VT0(1):26"/>
+				</v:userDefs>
+				<title>Blad.230</title>
+				<desc>Peter Stuiversand</desc>
+				<g id="group231-34" transform="translate(-89.1747,52.3823)" v:mID="231" v:groupContext="group">
+					<title>Blad.231</title>
+					<g id="shape232-35" v:mID="232" v:groupContext="shape">
+						<title>Blad.232</title>
+						<v:userDefs>
+							<v:ud v:nameU="Embellishment" v:prompt="" v:val="VT0(2):26"/>
+							<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(0):26"/>
+							<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#000000)"/>
+							<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#96afcf)"/>
+							<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#1f477d)"/>
+							<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#000000)"/>
+							<v:ud v:nameU="msvQuickStyleVariationRestore" v:prompt="" v:val="VT0(0):26"/>
+							<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(1):26"/>
+							<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#31528f)"/>
+							<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#3d64ac)"/>
+							<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#31528f)"/>
+							<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#feffff)"/>
+						</v:userDefs>
+						<path d="M0 491.23 L0 595.28 L194.56 595.28 L194.56 491.23 A14.5935 14.2467 -180 0 0 174.11 477.53 A94.7397
+									 31.4231 0 0 1 20.45 477.53 A14.5935 14.2467 -180 0 0 0 491.23 Z" class="st3"/>
+					</g>
+					<g id="shape233-37" v:mID="233" v:groupContext="shape" transform="translate(62.7077,-96.2608)">
+						<title>Blad.233</title>
+						<v:userDefs>
+							<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(0):26"/>
+							<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(1):26"/>
+						</v:userDefs>
+						<path d="M17.6 592.44 A2.83465 2.83465 -180 1 0 11.94 592.44 A2.83465 2.83465 -180 1 0 17.6 592.44 ZM37.41
+									 592.44 A2.83465 2.83465 -180 1 0 31.74 592.44 A2.83465 2.83465 -180 1 0 37.41 592.44 ZM57.21
+									 592.44 A2.83465 2.83465 -180 1 0 51.54 592.44 A2.83465 2.83465 -180 1 0 57.21 592.44 Z"
+								class="st4"/>
+					</g>
+					<g id="shape231-40" v:mID="231" v:groupContext="groupContent">
+						<rect x="0" y="490.511" width="194.563" height="104.765" class="st5"/>
+						<rect x="0" y="490.511" width="194.563" height="104.765" class="st6"/>
+					</g>
+				</g>
+				<g id="group234-43" transform="translate(94.0497,58.0516)" v:mID="234" v:groupContext="group">
+					<v:userDefs>
+						<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
+					</v:userDefs>
+					<title>Blad.234</title>
+					<g id="shape234-44" v:mID="234" v:groupContext="groupContent">
+						<rect x="0" y="583.937" width="11.3386" height="11.3386" class="st7"/>
+					</g>
+					<g id="shape235-46" v:mID="235" v:groupContext="shape">
+						<title>Blad.235</title>
+						<rect x="3.40157" y="585.071" width="4.53543" height="3.40157" class="st8"/>
+					</g>
+					<g id="shape236-48" v:mID="236" v:groupContext="shape">
+						<title>Blad.236</title>
+					</g>
+				</g>
+				<g id="shape230-50" v:mID="230" v:groupContext="groupContent">
+					<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" v:verticalAlign="2"/>
+					<v:textRect cx="52.6941" cy="590.474" width="105.39" height="9.60356"/>
+					<text x="0" y="592.88" class="st9" v:langID="1033"><v:paragraph/><v:tabList/>Peter Stuiversand</text>				</g>
+			</g>
+			<g id="shape237-52" v:mID="237" v:groupContext="shape" transform="translate(16.2136,-14.7169)">
+				<title>Blad.237</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvsOrgPicture" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="msvReplaceSubshapeID" v:prompt="" v:val="VT4(OrgPicture)"/>
+					<v:ud v:nameU="PictureAspectRatio" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="PictureAreaAspectRatio" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="Visible" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(1):26"/>
+				</v:userDefs>
+				<rect v:rectContext="foreign" x="0" y="530.421" width="64.8543" height="64.8543" class="st10"/>
+				<image x="0" y="530.421" width="64.8543" height="64.8543" preserveAspectRatio="none" xlink:href="data:image/png;base64,
+							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
+							3fsfH7WRHUGBjPoAAAAASUVORK5CYII="/>
+				<rect v:rectContext="foreign" x="0" y="530.421" width="64.8543" height="64.8543" class="st10"/>
+			</g>
+			<g id="shape229-56" v:mID="229" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" v:verticalAlign="2"/>
+				<v:textRect cx="141.869" cy="547.695" width="105.39" height="9.60356"/>
+				<rect x="0" y="490.511" width="194.563" height="104.765" class="st11"/>
+				<text x="89.17" y="550.1" class="st9" v:langID="1033"><v:paragraph/><v:tabList/>manager</text>			</g>
+		</g>
+		<g id="group238-59" transform="translate(326.374,-272.126)" v:mID="238" v:groupContext="group">
+			<v:custProps>
+				<v:cp v:nameU="Department" v:lbl="Afdeling" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0" v:val="VT4(Afdeling)"/>
+				<v:cp v:nameU="Telephone" v:lbl="Telefoon" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0" v:val="VT4(Telefoon)"/>
+				<v:cp v:nameU="Name" v:lbl="Naam" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1043" v:cal="0" v:val="VT4(Naam)"/>
+				<v:cp v:nameU="Title" v:lbl="Titel" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1043" v:cal="0" v:val="VT4(Titel)"/>
+				<v:cp v:nameU="Email" v:lbl="E-mail" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1043" v:cal="0" v:val="VT4(E-mail)"/>
+				<v:cp v:nameU="Name" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1033" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="Title" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1033" v:cal="0" v:val="VT4(Balie medewerker)"/>
+				<v:cp v:nameU="Calendar" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="0" v:cal="0" v:val="VT0(0):26"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="Solsh" v:prompt="" v:val="VT15({0BF98B35-200C-41D5-8A23-20EF77CBC94A}):41"/>
+				<v:ud v:nameU="msvReplaceClass" v:prompt="" v:val="VT4(visOrgChart)"/>
+				<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ShowPicture" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="ShowSubordinates" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="DocShowPicture" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="Margin" v:prompt="" v:val="VT0(0.039370078740157):24"/>
+				<v:ud v:nameU="HasSubordinates" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="IsHidingSubs" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="ShowDivider" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ThisLayoutStyle" v:prompt="" v:val="VT0(100):26"/>
+				<v:ud v:nameU="HasPicture" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="Width" v:prompt="" v:val="VT0(1.625):1"/>
+				<v:ud v:nameU="Height" v:prompt="" v:val="VT0(0.875):1"/>
+				<v:ud v:nameU="Prop" v:prompt="" v:val="VT4(Title)"/>
+				<v:ud v:nameU="PictureAspectRatio" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="SetWidth" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="SetHeight" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PositionID" v:prompt="" v:val="VT15({9E7AC1AB-5C37-4D8A-897A-8405C45EA52D}):41"/>
+				<v:ud v:nameU="DeltaX" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="DeltaY" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ParLocX" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ParLocY" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ParLoc" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PictureWidth" v:prompt="" v:val="VT0(0.54166666666667):1"/>
+				<v:ud v:nameU="PictureHeight" v:prompt="" v:val="VT0(0.54166666666667):1"/>
+				<v:ud v:nameU="PictureAreaAspectRatio" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="DividerOffset" v:prompt="" v:val="VT0(0.37083333333333):29"/>
+				<v:ud v:nameU="CalcTextLineHeight" v:prompt="" v:val="VT0(0.13333333333333):29"/>
+				<v:ud v:nameU="DontExpand" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="ExpandedForPicture" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="Theme" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="PicturePinX" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PicturePinY" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvLayoutIncludeSubshapes" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#638bad)"/>
+				<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#638bad)"/>
+				<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PageLoc" v:prompt="" v:val="VT7(PNT(0,0)):40"/>
+				<v:ud v:nameU="CharSize" v:prompt="" v:val="VT0(0.11111111111111):29"/>
+				<v:ud v:nameU="GlowSize" v:prompt="" v:val="VT0(0):3"/>
+				<v:ud v:nameU="OrgChartStyle" v:prompt="" v:val="VT0(3):26"/>
+				<v:ud v:nameU="Visible" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="PipSize" v:prompt="" v:val="VT0(0.078740157480315):24"/>
+				<v:ud v:nameU="TextNamePinX" v:prompt="" v:val="VT0(0.74479166666667):1"/>
+				<v:ud v:nameU="TextNamePinY" v:prompt="" v:val="VT0(0.4375):1"/>
+				<v:ud v:nameU="TextListPinX" v:prompt="" v:val="VT0(0.74479166666667):1"/>
+				<v:ud v:nameU="TextListPinY" v:prompt="" v:val="VT0(0.4375):1"/>
+				<v:ud v:nameU="ChangeType" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="LastWidthScale" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="LastHeightScale" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="WidthScale" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="HeightScale" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="Widths" v:prompt="" v:val="VT0(1.625):26"/>
+				<v:ud v:nameU="Heights" v:prompt="" v:val="VT0(0.875):26"/>
+				<v:ud v:nameU="CharResize" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="ThisLayoutStyle" v:prompt="" v:val="VT0(100):26"/>
+				<v:ud v:nameU="Width" v:prompt="" v:val="VT0(2.7022637794883):1"/>
+				<v:ud v:nameU="Height" v:prompt="" v:val="VT0(1.4550651120322):1"/>
+				<v:ud v:nameU="PictureWidth" v:prompt="" v:val="VT0(0.90075459316276):1"/>
+				<v:ud v:nameU="PictureHeight" v:prompt="" v:val="VT0(0.90075459316276):1"/>
+				<v:ud v:nameU="DividerOffset" v:prompt="" v:val="VT0(0.66089063503626):29"/>
+				<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#305497)"/>
+				<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#305497)"/>
+				<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#4672c4)"/>
+				<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#feffff)"/>
+				<v:ud v:nameU="TextNamePinX" v:prompt="" v:val="VT0(1.2385375655988):1"/>
+				<v:ud v:nameU="TextNamePinY" v:prompt="" v:val="VT0(0.72755730170293):1"/>
+				<v:ud v:nameU="TextListPinX" v:prompt="" v:val="VT0(1.2385375655988):1"/>
+				<v:ud v:nameU="TextListPinY" v:prompt="" v:val="VT0(0.72755730170293):1"/>
+			</v:userDefs>
+			<title>Executive pip.238</title>
+			<desc>Balie medewerker</desc>
+			<g id="group239-60" transform="translate(89.1747,-52.3841)" v:mID="239" v:groupContext="group">
+				<v:userDefs>
+					<v:ud v:nameU="msvReplaceSubshapeID" v:prompt="" v:val="VT4(NameText)"/>
+					<v:ud v:nameU="Prop" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="BlockName" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="InUse" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CharSize" v:prompt="" v:val="VT0(0.11111111111111):29"/>
+					<v:ud v:nameU="Visible" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="Prop" v:prompt="" v:val="VT4(Name)"/>
+				</v:userDefs>
+				<title>Blad.239</title>
+				<g id="group240-61" transform="translate(-89.1747,52.3841)" v:mID="240" v:groupContext="group">
+					<title>Blad.240</title>
+					<g id="shape241-62" v:mID="241" v:groupContext="shape">
+						<title>Blad.241</title>
+						<v:userDefs>
+							<v:ud v:nameU="Embellishment" v:prompt="" v:val="VT0(2):26"/>
+							<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(0):26"/>
+							<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#000000)"/>
+							<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#96afcf)"/>
+							<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#1f477d)"/>
+							<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#000000)"/>
+							<v:ud v:nameU="msvQuickStyleVariationRestore" v:prompt="" v:val="VT0(0):26"/>
+							<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(2):26"/>
+							<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#4672c4)"/>
+							<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#4672c4)"/>
+							<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#c8c8c8)"/>
+							<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#feffff)"/>
+						</v:userDefs>
+						<path d="M0 491.23 L0 595.28 L194.56 595.28 L194.56 491.23 A14.5935 14.2467 -180 0 0 174.11 477.53 A94.7397
+									 31.4231 0 0 1 20.45 477.53 A14.5935 14.2467 -180 0 0 0 491.23 Z" class="st12"/>
+					</g>
+					<g id="shape242-64" v:mID="242" v:groupContext="shape" transform="translate(62.7077,-96.2608)">
+						<title>Blad.242</title>
+						<v:userDefs>
+							<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(0):26"/>
+							<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(2):26"/>
+						</v:userDefs>
+						<path d="M27.51 592.44 A2.83465 2.83465 -180 1 0 21.84 592.44 A2.83465 2.83465 -180 1 0 27.51 592.44 ZM47.31
+									 592.44 A2.83465 2.83465 -180 1 0 41.64 592.44 A2.83465 2.83465 -180 1 0 47.31 592.44 Z"
+								class="st4"/>
+					</g>
+					<g id="shape240-67" v:mID="240" v:groupContext="groupContent">
+						<rect x="0" y="490.511" width="194.563" height="104.765" class="st5"/>
+						<rect x="0" y="490.511" width="194.563" height="104.765" class="st13"/>
+					</g>
+				</g>
+				<g id="group243-70" transform="translate(94.0497,58.0534)" v:mID="243" v:groupContext="group">
+					<v:userDefs>
+						<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
+					</v:userDefs>
+					<title>Blad.243</title>
+					<g id="shape243-71" v:mID="243" v:groupContext="groupContent">
+						<rect x="0" y="583.937" width="11.3386" height="11.3386" class="st7"/>
+					</g>
+					<g id="shape244-73" v:mID="244" v:groupContext="shape">
+						<title>Blad.244</title>
+						<rect x="3.40157" y="585.071" width="4.53543" height="3.40157" class="st8"/>
+					</g>
+					<g id="shape245-75" v:mID="245" v:groupContext="shape">
+						<title>Blad.245</title>
+					</g>
+				</g>
+			</g>
+			<g id="shape246-77" v:mID="246" v:groupContext="shape" transform="translate(16.2136,-14.7169)">
+				<title>Blad.246</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvsOrgPicture" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="msvReplaceSubshapeID" v:prompt="" v:val="VT4(OrgPicture)"/>
+					<v:ud v:nameU="PictureAspectRatio" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="PictureAreaAspectRatio" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="Visible" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(2):26"/>
+				</v:userDefs>
+				<rect v:rectContext="foreign" x="0" y="530.421" width="64.8543" height="64.8543" class="st14"/>
+				<image x="0" y="530.421" width="64.8543" height="64.8543" preserveAspectRatio="none" xlink:href="data:image/png;base64,
+							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
+							3fsfH7WRHUGBjPoAAAAASUVORK5CYII="/>
+				<rect v:rectContext="foreign" x="0" y="530.421" width="64.8543" height="64.8543" class="st14"/>
+			</g>
+			<g id="shape238-81" v:mID="238" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" v:verticalAlign="2"/>
+				<v:textRect cx="141.869" cy="547.693" width="105.39" height="9.60356"/>
+				<rect x="0" y="490.511" width="194.563" height="104.765" class="st15"/>
+				<text x="89.17" y="550.09" class="st9" v:langID="1033"><v:paragraph/><v:tabList/>Balie medewerker</text>			</g>
+		</g>
+		<g id="group247-84" transform="translate(326.374,-83.6806)" v:mID="247" v:groupContext="group">
+			<v:custProps>
+				<v:cp v:nameU="Department" v:lbl="Afdeling" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0" v:val="VT4(Afdeling)"/>
+				<v:cp v:nameU="Telephone" v:lbl="Telefoon" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0" v:val="VT4(Telefoon)"/>
+				<v:cp v:nameU="Name" v:lbl="Naam" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1043" v:cal="0" v:val="VT4(Naam)"/>
+				<v:cp v:nameU="Title" v:lbl="Titel" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1043" v:cal="0" v:val="VT4(Titel)"/>
+				<v:cp v:nameU="Email" v:lbl="E-mail" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1043" v:cal="0" v:val="VT4(E-mail)"/>
+				<v:cp v:nameU="Name" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1033" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="Title" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1033" v:cal="0" v:val="VT4(Klanten)"/>
+				<v:cp v:nameU="Calendar" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="0" v:cal="0" v:val="VT0(0):26"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="Solsh" v:prompt="" v:val="VT15({0BF98B35-200C-41D5-8A23-20EF77CBC94A}):41"/>
+				<v:ud v:nameU="msvReplaceClass" v:prompt="" v:val="VT4(visOrgChart)"/>
+				<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ShowPicture" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="ShowSubordinates" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="DocShowPicture" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="Margin" v:prompt="" v:val="VT0(0.039370078740157):24"/>
+				<v:ud v:nameU="HasSubordinates" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="IsHidingSubs" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="ShowDivider" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ThisLayoutStyle" v:prompt="" v:val="VT0(100):26"/>
+				<v:ud v:nameU="HasPicture" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="Width" v:prompt="" v:val="VT0(1.625):1"/>
+				<v:ud v:nameU="Height" v:prompt="" v:val="VT0(0.875):1"/>
+				<v:ud v:nameU="Prop" v:prompt="" v:val="VT4(Title)"/>
+				<v:ud v:nameU="PictureAspectRatio" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="SetWidth" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="SetHeight" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PositionID" v:prompt="" v:val="VT15({9E7AC1AB-5C37-4D8A-897A-8405C45EA52D}):41"/>
+				<v:ud v:nameU="DeltaX" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="DeltaY" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ParLocX" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ParLocY" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ParLoc" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PictureWidth" v:prompt="" v:val="VT0(0.54166666666667):1"/>
+				<v:ud v:nameU="PictureHeight" v:prompt="" v:val="VT0(0.54166666666667):1"/>
+				<v:ud v:nameU="PictureAreaAspectRatio" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="DividerOffset" v:prompt="" v:val="VT0(0.37083333333333):29"/>
+				<v:ud v:nameU="CalcTextLineHeight" v:prompt="" v:val="VT0(0.13333333333333):29"/>
+				<v:ud v:nameU="DontExpand" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="ExpandedForPicture" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="Theme" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="PicturePinX" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PicturePinY" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvLayoutIncludeSubshapes" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#638bad)"/>
+				<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#638bad)"/>
+				<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PageLoc" v:prompt="" v:val="VT7(PNT(0,0)):40"/>
+				<v:ud v:nameU="CharSize" v:prompt="" v:val="VT0(0.11111111111111):29"/>
+				<v:ud v:nameU="GlowSize" v:prompt="" v:val="VT0(0):3"/>
+				<v:ud v:nameU="OrgChartStyle" v:prompt="" v:val="VT0(3):26"/>
+				<v:ud v:nameU="Visible" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="PipSize" v:prompt="" v:val="VT0(0.078740157480315):24"/>
+				<v:ud v:nameU="TextNamePinX" v:prompt="" v:val="VT0(0.74479166666667):1"/>
+				<v:ud v:nameU="TextNamePinY" v:prompt="" v:val="VT0(0.4375):1"/>
+				<v:ud v:nameU="TextListPinX" v:prompt="" v:val="VT0(0.74479166666667):1"/>
+				<v:ud v:nameU="TextListPinY" v:prompt="" v:val="VT0(0.4375):1"/>
+				<v:ud v:nameU="ChangeType" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="LastWidthScale" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="LastHeightScale" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="WidthScale" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="HeightScale" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="Widths" v:prompt="" v:val="VT0(1.625):26"/>
+				<v:ud v:nameU="Heights" v:prompt="" v:val="VT0(0.875):26"/>
+				<v:ud v:nameU="CharResize" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(3):26"/>
+				<v:ud v:nameU="ThisLayoutStyle" v:prompt="" v:val="VT0(100):26"/>
+				<v:ud v:nameU="Width" v:prompt="" v:val="VT0(2.7022637794883):1"/>
+				<v:ud v:nameU="Height" v:prompt="" v:val="VT0(1.4550651120322):1"/>
+				<v:ud v:nameU="PictureWidth" v:prompt="" v:val="VT0(0.90075459316276):1"/>
+				<v:ud v:nameU="PictureHeight" v:prompt="" v:val="VT0(0.90075459316276):1"/>
+				<v:ud v:nameU="DividerOffset" v:prompt="" v:val="VT0(0.72755704738977):29"/>
+				<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#4672c4)"/>
+				<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#4672c4)"/>
+				<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#4672c4)"/>
+				<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#feffff)"/>
+				<v:ud v:nameU="TextNamePinX" v:prompt="" v:val="VT0(1.2385375655988):1"/>
+				<v:ud v:nameU="TextNamePinY" v:prompt="" v:val="VT0(0.79422371405644):1"/>
+				<v:ud v:nameU="TextListPinX" v:prompt="" v:val="VT0(1.2385375655988):1"/>
+				<v:ud v:nameU="TextListPinY" v:prompt="" v:val="VT0(0.79422371405644):1"/>
+			</v:userDefs>
+			<title>Executive pip.247</title>
+			<desc>Klanten</desc>
+			<g id="group248-85" transform="translate(89.1747,-57.1841)" v:mID="248" v:groupContext="group">
+				<v:userDefs>
+					<v:ud v:nameU="msvReplaceSubshapeID" v:prompt="" v:val="VT4(NameText)"/>
+					<v:ud v:nameU="Prop" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="BlockName" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="InUse" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CharSize" v:prompt="" v:val="VT0(0.11111111111111):29"/>
+					<v:ud v:nameU="Visible" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="Prop" v:prompt="" v:val="VT4(Name)"/>
+				</v:userDefs>
+				<title>Blad.248</title>
+				<g id="group249-86" transform="translate(-89.1747,57.1841)" v:mID="249" v:groupContext="group">
+					<title>Blad.249</title>
+					<g id="shape250-87" v:mID="250" v:groupContext="shape">
+						<title>Blad.250</title>
+						<v:userDefs>
+							<v:ud v:nameU="Embellishment" v:prompt="" v:val="VT0(2):26"/>
+							<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(0):26"/>
+							<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#000000)"/>
+							<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#96afcf)"/>
+							<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#1f477d)"/>
+							<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#000000)"/>
+							<v:ud v:nameU="msvQuickStyleVariationRestore" v:prompt="" v:val="VT0(0):26"/>
+							<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(3):26"/>
+							<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#4672c4)"/>
+							<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#4672c4)"/>
+							<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#c8c8c8)"/>
+							<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#feffff)"/>
+						</v:userDefs>
+						<path d="M0 491.23 L0 595.28 L194.56 595.28 L194.56 491.23 A14.5935 14.2467 -180 0 0 174.11 477.53 A94.7397
+									 31.4231 0 0 1 20.45 477.53 A14.5935 14.2467 -180 0 0 -0 491.23 Z" class="st16"/>
+					</g>
+					<g id="shape251-89" v:mID="251" v:groupContext="shape" transform="translate(62.7077,-96.2608)">
+						<title>Blad.251</title>
+						<v:userDefs>
+							<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(0):26"/>
+							<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(3):26"/>
+						</v:userDefs>
+						<path d="M37.41 592.44 A2.83465 2.83465 -180 1 0 31.74 592.44 A2.83465 2.83465 -180 1 0 37.41 592.44 Z"
+								class="st4"/>
+					</g>
+					<g id="shape249-92" v:mID="249" v:groupContext="groupContent">
+						<rect x="0" y="490.511" width="194.563" height="104.765" class="st5"/>
+						<rect x="0" y="490.511" width="194.563" height="104.765" class="st13"/>
+					</g>
+				</g>
+				<g id="group252-95" transform="translate(94.0497,62.8534)" v:mID="252" v:groupContext="group">
+					<v:userDefs>
+						<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
+					</v:userDefs>
+					<title>Blad.252</title>
+					<g id="shape252-96" v:mID="252" v:groupContext="groupContent">
+						<rect x="0" y="583.937" width="11.3386" height="11.3386" class="st7"/>
+					</g>
+					<g id="shape253-98" v:mID="253" v:groupContext="shape">
+						<title>Blad.253</title>
+						<rect x="3.40157" y="585.071" width="4.53543" height="3.40157" class="st8"/>
+					</g>
+					<g id="shape254-100" v:mID="254" v:groupContext="shape">
+						<title>Blad.254</title>
+					</g>
+				</g>
+			</g>
+			<g id="shape255-102" v:mID="255" v:groupContext="shape" transform="translate(16.2136,-14.7169)">
+				<title>Blad.255</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvsOrgPicture" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="msvReplaceSubshapeID" v:prompt="" v:val="VT4(OrgPicture)"/>
+					<v:ud v:nameU="PictureAspectRatio" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="PictureAreaAspectRatio" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="Visible" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(3):26"/>
+				</v:userDefs>
+				<rect v:rectContext="foreign" x="0" y="530.421" width="64.8543" height="64.8543" class="st14"/>
+				<image x="0" y="530.421" width="64.8543" height="64.8543" preserveAspectRatio="none" xlink:href="data:image/png;base64,
+							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
+							3fsfH7WRHUGBjPoAAAAASUVORK5CYII="/>
+				<rect v:rectContext="foreign" x="0" y="530.421" width="64.8543" height="64.8543" class="st14"/>
+			</g>
+			<g id="shape247-106" v:mID="247" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" v:verticalAlign="2"/>
+				<v:textRect cx="141.869" cy="547.693" width="105.39" height="19.2035"/>
+				<rect x="0" y="490.511" width="194.563" height="104.765" class="st17"/>
+				<text x="89.17" y="545.29" class="st9" v:langID="1033"><v:paragraph/><v:tabList/>Klanten<v:newlineChar/></text>			</g>
+		</g>
+		<g id="group256-109" transform="translate(571.447,-272.126)" v:mID="256" v:groupContext="group">
+			<v:custProps>
+				<v:cp v:nameU="Department" v:lbl="Afdeling" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0" v:val="VT4(Afdeling)"/>
+				<v:cp v:nameU="Telephone" v:lbl="Telefoon" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0" v:val="VT4(Telefoon)"/>
+				<v:cp v:nameU="Name" v:lbl="Naam" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1043" v:cal="0" v:val="VT4(Naam)"/>
+				<v:cp v:nameU="Title" v:lbl="Titel" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1043" v:cal="0" v:val="VT4(Titel)"/>
+				<v:cp v:nameU="Email" v:lbl="E-mail" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1043" v:cal="0" v:val="VT4(E-mail)"/>
+				<v:cp v:nameU="Name" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1033" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="Title" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1033" v:cal="0" v:val="VT4(Balie medewerker)"/>
+				<v:cp v:nameU="Calendar" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="0" v:cal="0" v:val="VT0(0):26"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="Solsh" v:prompt="" v:val="VT15({0BF98B35-200C-41D5-8A23-20EF77CBC94A}):41"/>
+				<v:ud v:nameU="msvReplaceClass" v:prompt="" v:val="VT4(visOrgChart)"/>
+				<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ShowPicture" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="ShowSubordinates" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="DocShowPicture" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="Margin" v:prompt="" v:val="VT0(0.039370078740157):24"/>
+				<v:ud v:nameU="HasSubordinates" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="IsHidingSubs" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="ShowDivider" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ThisLayoutStyle" v:prompt="" v:val="VT0(100):26"/>
+				<v:ud v:nameU="HasPicture" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="Width" v:prompt="" v:val="VT0(1.625):1"/>
+				<v:ud v:nameU="Height" v:prompt="" v:val="VT0(0.875):1"/>
+				<v:ud v:nameU="Prop" v:prompt="" v:val="VT4(Title)"/>
+				<v:ud v:nameU="PictureAspectRatio" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="SetWidth" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="SetHeight" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PositionID" v:prompt="" v:val="VT15({9E7AC1AB-5C37-4D8A-897A-8405C45EA52D}):41"/>
+				<v:ud v:nameU="DeltaX" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="DeltaY" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ParLocX" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ParLocY" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ParLoc" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PictureWidth" v:prompt="" v:val="VT0(0.54166666666667):1"/>
+				<v:ud v:nameU="PictureHeight" v:prompt="" v:val="VT0(0.54166666666667):1"/>
+				<v:ud v:nameU="PictureAreaAspectRatio" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="DividerOffset" v:prompt="" v:val="VT0(0.37083333333333):29"/>
+				<v:ud v:nameU="CalcTextLineHeight" v:prompt="" v:val="VT0(0.13333333333333):29"/>
+				<v:ud v:nameU="DontExpand" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="ExpandedForPicture" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="Theme" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="PicturePinX" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PicturePinY" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvLayoutIncludeSubshapes" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#638bad)"/>
+				<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#638bad)"/>
+				<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PageLoc" v:prompt="" v:val="VT7(PNT(0,0)):40"/>
+				<v:ud v:nameU="CharSize" v:prompt="" v:val="VT0(0.11111111111111):29"/>
+				<v:ud v:nameU="GlowSize" v:prompt="" v:val="VT0(0):3"/>
+				<v:ud v:nameU="OrgChartStyle" v:prompt="" v:val="VT0(3):26"/>
+				<v:ud v:nameU="Visible" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="PipSize" v:prompt="" v:val="VT0(0.078740157480315):24"/>
+				<v:ud v:nameU="TextNamePinX" v:prompt="" v:val="VT0(0.74479166666667):1"/>
+				<v:ud v:nameU="TextNamePinY" v:prompt="" v:val="VT0(0.4375):1"/>
+				<v:ud v:nameU="TextListPinX" v:prompt="" v:val="VT0(0.74479166666667):1"/>
+				<v:ud v:nameU="TextListPinY" v:prompt="" v:val="VT0(0.4375):1"/>
+				<v:ud v:nameU="ChangeType" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="LastWidthScale" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="LastHeightScale" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="WidthScale" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="HeightScale" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="Widths" v:prompt="" v:val="VT0(1.625):26"/>
+				<v:ud v:nameU="Heights" v:prompt="" v:val="VT0(0.875):26"/>
+				<v:ud v:nameU="CharResize" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="ThisLayoutStyle" v:prompt="" v:val="VT0(100):26"/>
+				<v:ud v:nameU="Width" v:prompt="" v:val="VT0(2.7022637794883):1"/>
+				<v:ud v:nameU="Height" v:prompt="" v:val="VT0(1.4550651120322):1"/>
+				<v:ud v:nameU="PictureWidth" v:prompt="" v:val="VT0(0.90075459316276):1"/>
+				<v:ud v:nameU="PictureHeight" v:prompt="" v:val="VT0(0.90075459316276):1"/>
+				<v:ud v:nameU="DividerOffset" v:prompt="" v:val="VT0(0.66089063503626):29"/>
+				<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#305497)"/>
+				<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#305497)"/>
+				<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#4672c4)"/>
+				<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#feffff)"/>
+				<v:ud v:nameU="TextNamePinX" v:prompt="" v:val="VT0(1.2385375655988):1"/>
+				<v:ud v:nameU="TextNamePinY" v:prompt="" v:val="VT0(0.72755730170293):1"/>
+				<v:ud v:nameU="TextListPinX" v:prompt="" v:val="VT0(1.2385375655988):1"/>
+				<v:ud v:nameU="TextListPinY" v:prompt="" v:val="VT0(0.72755730170293):1"/>
+			</v:userDefs>
+			<title>Executive pip.256</title>
+			<desc>Balie medewerker</desc>
+			<g id="group257-110" transform="translate(89.1747,-52.3841)" v:mID="257" v:groupContext="group">
+				<v:userDefs>
+					<v:ud v:nameU="msvReplaceSubshapeID" v:prompt="" v:val="VT4(NameText)"/>
+					<v:ud v:nameU="Prop" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="BlockName" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="InUse" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CharSize" v:prompt="" v:val="VT0(0.11111111111111):29"/>
+					<v:ud v:nameU="Visible" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="Prop" v:prompt="" v:val="VT4(Name)"/>
+				</v:userDefs>
+				<title>Blad.257</title>
+				<g id="group258-111" transform="translate(-89.1747,52.3841)" v:mID="258" v:groupContext="group">
+					<title>Blad.258</title>
+					<g id="shape259-112" v:mID="259" v:groupContext="shape">
+						<title>Blad.259</title>
+						<v:userDefs>
+							<v:ud v:nameU="Embellishment" v:prompt="" v:val="VT0(2):26"/>
+							<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(0):26"/>
+							<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#000000)"/>
+							<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#96afcf)"/>
+							<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#1f477d)"/>
+							<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#000000)"/>
+							<v:ud v:nameU="msvQuickStyleVariationRestore" v:prompt="" v:val="VT0(0):26"/>
+							<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(2):26"/>
+							<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#4672c4)"/>
+							<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#4672c4)"/>
+							<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#c8c8c8)"/>
+							<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#feffff)"/>
+						</v:userDefs>
+						<path d="M0 491.23 L0 595.28 L194.56 595.28 L194.56 491.23 A14.5935 14.2467 -180 0 0 174.11 477.53 A94.7397
+									 31.4231 0 0 1 20.45 477.53 A14.5935 14.2467 -180 0 0 0 491.23 Z" class="st12"/>
+					</g>
+					<g id="shape260-114" v:mID="260" v:groupContext="shape" transform="translate(62.7077,-96.2608)">
+						<title>Blad.260</title>
+						<v:userDefs>
+							<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(0):26"/>
+							<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(2):26"/>
+						</v:userDefs>
+						<path d="M27.51 592.44 A2.83465 2.83465 -180 1 0 21.84 592.44 A2.83465 2.83465 -180 1 0 27.51 592.44 ZM47.31
+									 592.44 A2.83465 2.83465 -180 1 0 41.64 592.44 A2.83465 2.83465 -180 1 0 47.31 592.44 Z"
+								class="st4"/>
+					</g>
+					<g id="shape258-117" v:mID="258" v:groupContext="groupContent">
+						<rect x="0" y="490.511" width="194.563" height="104.765" class="st5"/>
+						<rect x="0" y="490.511" width="194.563" height="104.765" class="st13"/>
+					</g>
+				</g>
+				<g id="group261-120" transform="translate(94.0497,58.0534)" v:mID="261" v:groupContext="group">
+					<v:userDefs>
+						<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
+					</v:userDefs>
+					<title>Blad.261</title>
+					<g id="shape261-121" v:mID="261" v:groupContext="groupContent">
+						<rect x="0" y="583.937" width="11.3386" height="11.3386" class="st7"/>
+					</g>
+					<g id="shape262-123" v:mID="262" v:groupContext="shape">
+						<title>Blad.262</title>
+						<rect x="3.40157" y="585.071" width="4.53543" height="3.40157" class="st8"/>
+					</g>
+					<g id="shape263-125" v:mID="263" v:groupContext="shape">
+						<title>Blad.263</title>
+					</g>
+				</g>
+			</g>
+			<g id="shape264-127" v:mID="264" v:groupContext="shape" transform="translate(16.2136,-14.7169)">
+				<title>Blad.264</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvsOrgPicture" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="msvReplaceSubshapeID" v:prompt="" v:val="VT4(OrgPicture)"/>
+					<v:ud v:nameU="PictureAspectRatio" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="PictureAreaAspectRatio" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="Visible" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(2):26"/>
+				</v:userDefs>
+				<rect v:rectContext="foreign" x="0" y="530.421" width="64.8543" height="64.8543" class="st14"/>
+				<image x="0" y="530.421" width="64.8543" height="64.8543" preserveAspectRatio="none" xlink:href="data:image/png;base64,
+							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
+							3fsfH7WRHUGBjPoAAAAASUVORK5CYII="/>
+				<rect v:rectContext="foreign" x="0" y="530.421" width="64.8543" height="64.8543" class="st14"/>
+			</g>
+			<g id="shape256-131" v:mID="256" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" v:verticalAlign="2"/>
+				<v:textRect cx="141.869" cy="547.693" width="105.39" height="9.60356"/>
+				<rect x="0" y="490.511" width="194.563" height="104.765" class="st15"/>
+				<text x="89.17" y="550.09" class="st9" v:langID="1033"><v:paragraph/><v:tabList/>Balie medewerker</text>			</g>
+		</g>
+		<g id="group265-134" transform="translate(571.447,-83.6806)" v:mID="265" v:groupContext="group">
+			<v:custProps>
+				<v:cp v:nameU="Department" v:lbl="Afdeling" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0" v:val="VT4(Afdeling)"/>
+				<v:cp v:nameU="Telephone" v:lbl="Telefoon" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0" v:val="VT4(Telefoon)"/>
+				<v:cp v:nameU="Name" v:lbl="Naam" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1043" v:cal="0" v:val="VT4(Naam)"/>
+				<v:cp v:nameU="Title" v:lbl="Titel" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1043" v:cal="0" v:val="VT4(Titel)"/>
+				<v:cp v:nameU="Email" v:lbl="E-mail" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1043" v:cal="0" v:val="VT4(E-mail)"/>
+				<v:cp v:nameU="Name" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1033" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="Title" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1033" v:cal="0" v:val="VT4(Klanten)"/>
+				<v:cp v:nameU="Calendar" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="0" v:cal="0" v:val="VT0(0):26"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="Solsh" v:prompt="" v:val="VT15({0BF98B35-200C-41D5-8A23-20EF77CBC94A}):41"/>
+				<v:ud v:nameU="msvReplaceClass" v:prompt="" v:val="VT4(visOrgChart)"/>
+				<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ShowPicture" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="ShowSubordinates" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="DocShowPicture" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="Margin" v:prompt="" v:val="VT0(0.039370078740157):24"/>
+				<v:ud v:nameU="HasSubordinates" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="IsHidingSubs" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="ShowDivider" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ThisLayoutStyle" v:prompt="" v:val="VT0(100):26"/>
+				<v:ud v:nameU="HasPicture" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="Width" v:prompt="" v:val="VT0(1.625):1"/>
+				<v:ud v:nameU="Height" v:prompt="" v:val="VT0(0.875):1"/>
+				<v:ud v:nameU="Prop" v:prompt="" v:val="VT4(Title)"/>
+				<v:ud v:nameU="PictureAspectRatio" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="SetWidth" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="SetHeight" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PositionID" v:prompt="" v:val="VT15({9E7AC1AB-5C37-4D8A-897A-8405C45EA52D}):41"/>
+				<v:ud v:nameU="DeltaX" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="DeltaY" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ParLocX" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ParLocY" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ParLoc" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PictureWidth" v:prompt="" v:val="VT0(0.54166666666667):1"/>
+				<v:ud v:nameU="PictureHeight" v:prompt="" v:val="VT0(0.54166666666667):1"/>
+				<v:ud v:nameU="PictureAreaAspectRatio" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="DividerOffset" v:prompt="" v:val="VT0(0.37083333333333):29"/>
+				<v:ud v:nameU="CalcTextLineHeight" v:prompt="" v:val="VT0(0.13333333333333):29"/>
+				<v:ud v:nameU="DontExpand" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="ExpandedForPicture" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="Theme" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="PicturePinX" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PicturePinY" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvLayoutIncludeSubshapes" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#638bad)"/>
+				<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#638bad)"/>
+				<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PageLoc" v:prompt="" v:val="VT7(PNT(0,0)):40"/>
+				<v:ud v:nameU="CharSize" v:prompt="" v:val="VT0(0.11111111111111):29"/>
+				<v:ud v:nameU="GlowSize" v:prompt="" v:val="VT0(0):3"/>
+				<v:ud v:nameU="OrgChartStyle" v:prompt="" v:val="VT0(3):26"/>
+				<v:ud v:nameU="Visible" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="PipSize" v:prompt="" v:val="VT0(0.078740157480315):24"/>
+				<v:ud v:nameU="TextNamePinX" v:prompt="" v:val="VT0(0.74479166666667):1"/>
+				<v:ud v:nameU="TextNamePinY" v:prompt="" v:val="VT0(0.4375):1"/>
+				<v:ud v:nameU="TextListPinX" v:prompt="" v:val="VT0(0.74479166666667):1"/>
+				<v:ud v:nameU="TextListPinY" v:prompt="" v:val="VT0(0.4375):1"/>
+				<v:ud v:nameU="ChangeType" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="LastWidthScale" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="LastHeightScale" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="WidthScale" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="HeightScale" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="Widths" v:prompt="" v:val="VT0(1.625):26"/>
+				<v:ud v:nameU="Heights" v:prompt="" v:val="VT0(0.875):26"/>
+				<v:ud v:nameU="CharResize" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(3):26"/>
+				<v:ud v:nameU="ThisLayoutStyle" v:prompt="" v:val="VT0(100):26"/>
+				<v:ud v:nameU="Width" v:prompt="" v:val="VT0(2.7022637794883):1"/>
+				<v:ud v:nameU="Height" v:prompt="" v:val="VT0(1.4550651120322):1"/>
+				<v:ud v:nameU="PictureWidth" v:prompt="" v:val="VT0(0.90075459316276):1"/>
+				<v:ud v:nameU="PictureHeight" v:prompt="" v:val="VT0(0.90075459316276):1"/>
+				<v:ud v:nameU="DividerOffset" v:prompt="" v:val="VT0(0.72755704738977):29"/>
+				<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#4672c4)"/>
+				<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#4672c4)"/>
+				<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#4672c4)"/>
+				<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#feffff)"/>
+				<v:ud v:nameU="TextNamePinX" v:prompt="" v:val="VT0(1.2385375655988):1"/>
+				<v:ud v:nameU="TextNamePinY" v:prompt="" v:val="VT0(0.79422371405644):1"/>
+				<v:ud v:nameU="TextListPinX" v:prompt="" v:val="VT0(1.2385375655988):1"/>
+				<v:ud v:nameU="TextListPinY" v:prompt="" v:val="VT0(0.79422371405644):1"/>
+			</v:userDefs>
+			<title>Executive pip.265</title>
+			<desc>Klanten</desc>
+			<g id="group266-135" transform="translate(89.1747,-57.1841)" v:mID="266" v:groupContext="group">
+				<v:userDefs>
+					<v:ud v:nameU="msvReplaceSubshapeID" v:prompt="" v:val="VT4(NameText)"/>
+					<v:ud v:nameU="Prop" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="BlockName" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="InUse" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CharSize" v:prompt="" v:val="VT0(0.11111111111111):29"/>
+					<v:ud v:nameU="Visible" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="Prop" v:prompt="" v:val="VT4(Name)"/>
+				</v:userDefs>
+				<title>Blad.266</title>
+				<g id="group267-136" transform="translate(-89.1747,57.1841)" v:mID="267" v:groupContext="group">
+					<title>Blad.267</title>
+					<g id="shape268-137" v:mID="268" v:groupContext="shape">
+						<title>Blad.268</title>
+						<v:userDefs>
+							<v:ud v:nameU="Embellishment" v:prompt="" v:val="VT0(2):26"/>
+							<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(0):26"/>
+							<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#000000)"/>
+							<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#96afcf)"/>
+							<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#1f477d)"/>
+							<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#000000)"/>
+							<v:ud v:nameU="msvQuickStyleVariationRestore" v:prompt="" v:val="VT0(0):26"/>
+							<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(3):26"/>
+							<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#4672c4)"/>
+							<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#4672c4)"/>
+							<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#c8c8c8)"/>
+							<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#feffff)"/>
+						</v:userDefs>
+						<path d="M0 491.23 L0 595.28 L194.56 595.28 L194.56 491.23 A14.5935 14.2467 -180 0 0 174.11 477.53 A94.7397
+									 31.4231 0 0 1 20.45 477.53 A14.5935 14.2467 -180 0 0 -0 491.23 Z" class="st16"/>
+					</g>
+					<g id="shape269-139" v:mID="269" v:groupContext="shape" transform="translate(62.7077,-96.2608)">
+						<title>Blad.269</title>
+						<v:userDefs>
+							<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(0):26"/>
+							<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(3):26"/>
+						</v:userDefs>
+						<path d="M37.41 592.44 A2.83465 2.83465 -180 1 0 31.74 592.44 A2.83465 2.83465 -180 1 0 37.41 592.44 Z"
+								class="st4"/>
+					</g>
+					<g id="shape267-142" v:mID="267" v:groupContext="groupContent">
+						<rect x="0" y="490.511" width="194.563" height="104.765" class="st5"/>
+						<rect x="0" y="490.511" width="194.563" height="104.765" class="st13"/>
+					</g>
+				</g>
+				<g id="group270-145" transform="translate(94.0497,62.8534)" v:mID="270" v:groupContext="group">
+					<v:userDefs>
+						<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
+					</v:userDefs>
+					<title>Blad.270</title>
+					<g id="shape270-146" v:mID="270" v:groupContext="groupContent">
+						<rect x="0" y="583.937" width="11.3386" height="11.3386" class="st7"/>
+					</g>
+					<g id="shape271-148" v:mID="271" v:groupContext="shape">
+						<title>Blad.271</title>
+						<rect x="3.40157" y="585.071" width="4.53543" height="3.40157" class="st8"/>
+					</g>
+					<g id="shape272-150" v:mID="272" v:groupContext="shape">
+						<title>Blad.272</title>
+					</g>
+				</g>
+			</g>
+			<g id="shape273-152" v:mID="273" v:groupContext="shape" transform="translate(16.2136,-14.7169)">
+				<title>Blad.273</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvsOrgPicture" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="msvReplaceSubshapeID" v:prompt="" v:val="VT4(OrgPicture)"/>
+					<v:ud v:nameU="PictureAspectRatio" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="PictureAreaAspectRatio" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="Visible" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(3):26"/>
+				</v:userDefs>
+				<rect v:rectContext="foreign" x="0" y="530.421" width="64.8543" height="64.8543" class="st14"/>
+				<image x="0" y="530.421" width="64.8543" height="64.8543" preserveAspectRatio="none" xlink:href="data:image/png;base64,
+							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
+							3fsfH7WRHUGBjPoAAAAASUVORK5CYII="/>
+				<rect v:rectContext="foreign" x="0" y="530.421" width="64.8543" height="64.8543" class="st14"/>
+			</g>
+			<g id="shape265-156" v:mID="265" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" v:verticalAlign="2"/>
+				<v:textRect cx="141.869" cy="547.693" width="105.39" height="19.2035"/>
+				<rect x="0" y="490.511" width="194.563" height="104.765" class="st17"/>
+				<text x="89.17" y="545.29" class="st9" v:langID="1033"><v:paragraph/><v:tabList/>Klanten<v:newlineChar/></text>			</g>
+		</g>
+		<g id="group274-159" transform="translate(81.3012,-272.126)" v:mID="274" v:groupContext="group">
+			<v:custProps>
+				<v:cp v:nameU="Department" v:lbl="Afdeling" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0" v:val="VT4(Afdeling)"/>
+				<v:cp v:nameU="Telephone" v:lbl="Telefoon" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0" v:val="VT4(Telefoon)"/>
+				<v:cp v:nameU="Name" v:lbl="Naam" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1043" v:cal="0" v:val="VT4(Naam)"/>
+				<v:cp v:nameU="Title" v:lbl="Titel" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1043" v:cal="0" v:val="VT4(Titel)"/>
+				<v:cp v:nameU="Email" v:lbl="E-mail" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1043" v:cal="0" v:val="VT4(E-mail)"/>
+				<v:cp v:nameU="Name" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1033" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="Title" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1033" v:cal="0" v:val="VT4(Balie medewerker)"/>
+				<v:cp v:nameU="Calendar" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="0" v:cal="0" v:val="VT0(0):26"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="Solsh" v:prompt="" v:val="VT15({0BF98B35-200C-41D5-8A23-20EF77CBC94A}):41"/>
+				<v:ud v:nameU="msvReplaceClass" v:prompt="" v:val="VT4(visOrgChart)"/>
+				<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ShowPicture" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="ShowSubordinates" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="DocShowPicture" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="Margin" v:prompt="" v:val="VT0(0.039370078740157):24"/>
+				<v:ud v:nameU="HasSubordinates" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="IsHidingSubs" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="ShowDivider" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ThisLayoutStyle" v:prompt="" v:val="VT0(100):26"/>
+				<v:ud v:nameU="HasPicture" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="Width" v:prompt="" v:val="VT0(1.625):1"/>
+				<v:ud v:nameU="Height" v:prompt="" v:val="VT0(0.875):1"/>
+				<v:ud v:nameU="Prop" v:prompt="" v:val="VT4(Title)"/>
+				<v:ud v:nameU="PictureAspectRatio" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="SetWidth" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="SetHeight" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PositionID" v:prompt="" v:val="VT15({9E7AC1AB-5C37-4D8A-897A-8405C45EA52D}):41"/>
+				<v:ud v:nameU="DeltaX" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="DeltaY" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ParLocX" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ParLocY" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ParLoc" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PictureWidth" v:prompt="" v:val="VT0(0.54166666666667):1"/>
+				<v:ud v:nameU="PictureHeight" v:prompt="" v:val="VT0(0.54166666666667):1"/>
+				<v:ud v:nameU="PictureAreaAspectRatio" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="DividerOffset" v:prompt="" v:val="VT0(0.37083333333333):29"/>
+				<v:ud v:nameU="CalcTextLineHeight" v:prompt="" v:val="VT0(0.13333333333333):29"/>
+				<v:ud v:nameU="DontExpand" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="ExpandedForPicture" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="Theme" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="PicturePinX" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PicturePinY" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvLayoutIncludeSubshapes" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#638bad)"/>
+				<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#638bad)"/>
+				<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PageLoc" v:prompt="" v:val="VT7(PNT(0,0)):40"/>
+				<v:ud v:nameU="CharSize" v:prompt="" v:val="VT0(0.11111111111111):29"/>
+				<v:ud v:nameU="GlowSize" v:prompt="" v:val="VT0(0):3"/>
+				<v:ud v:nameU="OrgChartStyle" v:prompt="" v:val="VT0(3):26"/>
+				<v:ud v:nameU="Visible" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="PipSize" v:prompt="" v:val="VT0(0.078740157480315):24"/>
+				<v:ud v:nameU="TextNamePinX" v:prompt="" v:val="VT0(0.74479166666667):1"/>
+				<v:ud v:nameU="TextNamePinY" v:prompt="" v:val="VT0(0.4375):1"/>
+				<v:ud v:nameU="TextListPinX" v:prompt="" v:val="VT0(0.74479166666667):1"/>
+				<v:ud v:nameU="TextListPinY" v:prompt="" v:val="VT0(0.4375):1"/>
+				<v:ud v:nameU="ChangeType" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="LastWidthScale" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="LastHeightScale" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="WidthScale" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="HeightScale" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="Widths" v:prompt="" v:val="VT0(1.625):26"/>
+				<v:ud v:nameU="Heights" v:prompt="" v:val="VT0(0.875):26"/>
+				<v:ud v:nameU="CharResize" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="ThisLayoutStyle" v:prompt="" v:val="VT0(100):26"/>
+				<v:ud v:nameU="Width" v:prompt="" v:val="VT0(2.7022637794883):1"/>
+				<v:ud v:nameU="Height" v:prompt="" v:val="VT0(1.4550651120322):1"/>
+				<v:ud v:nameU="PictureWidth" v:prompt="" v:val="VT0(0.90075459316276):1"/>
+				<v:ud v:nameU="PictureHeight" v:prompt="" v:val="VT0(0.90075459316276):1"/>
+				<v:ud v:nameU="DividerOffset" v:prompt="" v:val="VT0(0.66089063503626):29"/>
+				<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#305497)"/>
+				<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#305497)"/>
+				<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#4672c4)"/>
+				<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#feffff)"/>
+				<v:ud v:nameU="TextNamePinX" v:prompt="" v:val="VT0(1.2385375655988):1"/>
+				<v:ud v:nameU="TextNamePinY" v:prompt="" v:val="VT0(0.72755730170293):1"/>
+				<v:ud v:nameU="TextListPinX" v:prompt="" v:val="VT0(1.2385375655988):1"/>
+				<v:ud v:nameU="TextListPinY" v:prompt="" v:val="VT0(0.72755730170293):1"/>
+			</v:userDefs>
+			<title>Executive pip.274</title>
+			<desc>Balie medewerker</desc>
+			<g id="group275-160" transform="translate(89.1747,-52.3841)" v:mID="275" v:groupContext="group">
+				<v:userDefs>
+					<v:ud v:nameU="msvReplaceSubshapeID" v:prompt="" v:val="VT4(NameText)"/>
+					<v:ud v:nameU="Prop" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="BlockName" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="InUse" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CharSize" v:prompt="" v:val="VT0(0.11111111111111):29"/>
+					<v:ud v:nameU="Visible" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="Prop" v:prompt="" v:val="VT4(Name)"/>
+				</v:userDefs>
+				<title>Blad.275</title>
+				<g id="group276-161" transform="translate(-89.1747,52.3841)" v:mID="276" v:groupContext="group">
+					<title>Blad.276</title>
+					<g id="shape277-162" v:mID="277" v:groupContext="shape">
+						<title>Blad.277</title>
+						<v:userDefs>
+							<v:ud v:nameU="Embellishment" v:prompt="" v:val="VT0(2):26"/>
+							<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(0):26"/>
+							<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#000000)"/>
+							<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#96afcf)"/>
+							<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#1f477d)"/>
+							<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#000000)"/>
+							<v:ud v:nameU="msvQuickStyleVariationRestore" v:prompt="" v:val="VT0(0):26"/>
+							<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(2):26"/>
+							<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#4672c4)"/>
+							<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#4672c4)"/>
+							<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#c8c8c8)"/>
+							<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#feffff)"/>
+						</v:userDefs>
+						<path d="M0 491.23 L0 595.28 L194.56 595.28 L194.56 491.23 A14.5935 14.2467 -180 0 0 174.11 477.53 A94.7397
+									 31.4231 0 0 1 20.45 477.53 A14.5935 14.2467 -180 0 0 0 491.23 Z" class="st12"/>
+					</g>
+					<g id="shape278-164" v:mID="278" v:groupContext="shape" transform="translate(62.7077,-96.2608)">
+						<title>Blad.278</title>
+						<v:userDefs>
+							<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(0):26"/>
+							<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(2):26"/>
+						</v:userDefs>
+						<path d="M27.51 592.44 A2.83465 2.83465 -180 1 0 21.84 592.44 A2.83465 2.83465 -180 1 0 27.51 592.44 ZM47.31
+									 592.44 A2.83465 2.83465 -180 1 0 41.64 592.44 A2.83465 2.83465 -180 1 0 47.31 592.44 Z"
+								class="st4"/>
+					</g>
+					<g id="shape276-167" v:mID="276" v:groupContext="groupContent">
+						<rect x="0" y="490.511" width="194.563" height="104.765" class="st5"/>
+						<rect x="0" y="490.511" width="194.563" height="104.765" class="st13"/>
+					</g>
+				</g>
+				<g id="group279-170" transform="translate(94.0497,58.0534)" v:mID="279" v:groupContext="group">
+					<v:userDefs>
+						<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
+					</v:userDefs>
+					<title>Blad.279</title>
+					<g id="shape279-171" v:mID="279" v:groupContext="groupContent">
+						<rect x="0" y="583.937" width="11.3386" height="11.3386" class="st7"/>
+					</g>
+					<g id="shape280-173" v:mID="280" v:groupContext="shape">
+						<title>Blad.280</title>
+						<rect x="3.40157" y="585.071" width="4.53543" height="3.40157" class="st8"/>
+					</g>
+					<g id="shape281-175" v:mID="281" v:groupContext="shape">
+						<title>Blad.281</title>
+					</g>
+				</g>
+			</g>
+			<g id="shape282-177" v:mID="282" v:groupContext="shape" transform="translate(16.2136,-14.7169)">
+				<title>Blad.282</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvsOrgPicture" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="msvReplaceSubshapeID" v:prompt="" v:val="VT4(OrgPicture)"/>
+					<v:ud v:nameU="PictureAspectRatio" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="PictureAreaAspectRatio" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="Visible" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(2):26"/>
+				</v:userDefs>
+				<rect v:rectContext="foreign" x="0" y="530.421" width="64.8543" height="64.8543" class="st14"/>
+				<image x="0" y="530.421" width="64.8543" height="64.8543" preserveAspectRatio="none" xlink:href="data:image/png;base64,
+							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
+							3fsfH7WRHUGBjPoAAAAASUVORK5CYII="/>
+				<rect v:rectContext="foreign" x="0" y="530.421" width="64.8543" height="64.8543" class="st14"/>
+			</g>
+			<g id="shape274-181" v:mID="274" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" v:verticalAlign="2"/>
+				<v:textRect cx="141.869" cy="547.693" width="105.39" height="9.60356"/>
+				<rect x="0" y="490.511" width="194.563" height="104.765" class="st15"/>
+				<text x="89.17" y="550.09" class="st9" v:langID="1033"><v:paragraph/><v:tabList/>Balie medewerker</text>			</g>
+		</g>
+		<g id="group283-184" transform="translate(81.3012,-83.6806)" v:mID="283" v:groupContext="group">
+			<v:custProps>
+				<v:cp v:nameU="Department" v:lbl="Afdeling" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0" v:val="VT4(Afdeling)"/>
+				<v:cp v:nameU="Telephone" v:lbl="Telefoon" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1043" v:cal="0" v:val="VT4(Telefoon)"/>
+				<v:cp v:nameU="Name" v:lbl="Naam" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1043" v:cal="0" v:val="VT4(Naam)"/>
+				<v:cp v:nameU="Title" v:lbl="Titel" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1043" v:cal="0" v:val="VT4(Titel)"/>
+				<v:cp v:nameU="Email" v:lbl="E-mail" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1043" v:cal="0" v:val="VT4(E-mail)"/>
+				<v:cp v:nameU="Name" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1033" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="Title" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1033" v:cal="0" v:val="VT4(Klanten)"/>
+				<v:cp v:nameU="Calendar" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="0" v:cal="0" v:val="VT0(0):26"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="Solsh" v:prompt="" v:val="VT15({0BF98B35-200C-41D5-8A23-20EF77CBC94A}):41"/>
+				<v:ud v:nameU="msvReplaceClass" v:prompt="" v:val="VT4(visOrgChart)"/>
+				<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ShowPicture" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="ShowSubordinates" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="DocShowPicture" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="Margin" v:prompt="" v:val="VT0(0.039370078740157):24"/>
+				<v:ud v:nameU="HasSubordinates" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="IsHidingSubs" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="ShowDivider" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ThisLayoutStyle" v:prompt="" v:val="VT0(100):26"/>
+				<v:ud v:nameU="HasPicture" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="Width" v:prompt="" v:val="VT0(1.625):1"/>
+				<v:ud v:nameU="Height" v:prompt="" v:val="VT0(0.875):1"/>
+				<v:ud v:nameU="Prop" v:prompt="" v:val="VT4(Title)"/>
+				<v:ud v:nameU="PictureAspectRatio" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="SetWidth" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="SetHeight" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PositionID" v:prompt="" v:val="VT15({9E7AC1AB-5C37-4D8A-897A-8405C45EA52D}):41"/>
+				<v:ud v:nameU="DeltaX" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="DeltaY" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ParLocX" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ParLocY" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ParLoc" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PictureWidth" v:prompt="" v:val="VT0(0.54166666666667):1"/>
+				<v:ud v:nameU="PictureHeight" v:prompt="" v:val="VT0(0.54166666666667):1"/>
+				<v:ud v:nameU="PictureAreaAspectRatio" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="DividerOffset" v:prompt="" v:val="VT0(0.37083333333333):29"/>
+				<v:ud v:nameU="CalcTextLineHeight" v:prompt="" v:val="VT0(0.13333333333333):29"/>
+				<v:ud v:nameU="DontExpand" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="ExpandedForPicture" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="Theme" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="PicturePinX" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PicturePinY" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="msvLayoutIncludeSubshapes" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#638bad)"/>
+				<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#638bad)"/>
+				<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PageLoc" v:prompt="" v:val="VT7(PNT(0,0)):40"/>
+				<v:ud v:nameU="CharSize" v:prompt="" v:val="VT0(0.11111111111111):29"/>
+				<v:ud v:nameU="GlowSize" v:prompt="" v:val="VT0(0):3"/>
+				<v:ud v:nameU="OrgChartStyle" v:prompt="" v:val="VT0(3):26"/>
+				<v:ud v:nameU="Visible" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="PipSize" v:prompt="" v:val="VT0(0.078740157480315):24"/>
+				<v:ud v:nameU="TextNamePinX" v:prompt="" v:val="VT0(0.74479166666667):1"/>
+				<v:ud v:nameU="TextNamePinY" v:prompt="" v:val="VT0(0.4375):1"/>
+				<v:ud v:nameU="TextListPinX" v:prompt="" v:val="VT0(0.74479166666667):1"/>
+				<v:ud v:nameU="TextListPinY" v:prompt="" v:val="VT0(0.4375):1"/>
+				<v:ud v:nameU="ChangeType" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="LastWidthScale" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="LastHeightScale" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="WidthScale" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="HeightScale" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="Widths" v:prompt="" v:val="VT0(1.625):26"/>
+				<v:ud v:nameU="Heights" v:prompt="" v:val="VT0(0.875):26"/>
+				<v:ud v:nameU="CharResize" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(3):26"/>
+				<v:ud v:nameU="ThisLayoutStyle" v:prompt="" v:val="VT0(100):26"/>
+				<v:ud v:nameU="Width" v:prompt="" v:val="VT0(2.7022637794883):1"/>
+				<v:ud v:nameU="Height" v:prompt="" v:val="VT0(1.4550651120322):1"/>
+				<v:ud v:nameU="PictureWidth" v:prompt="" v:val="VT0(0.90075459316276):1"/>
+				<v:ud v:nameU="PictureHeight" v:prompt="" v:val="VT0(0.90075459316276):1"/>
+				<v:ud v:nameU="DividerOffset" v:prompt="" v:val="VT0(0.72755704738978):29"/>
+				<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#4672c4)"/>
+				<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#4672c4)"/>
+				<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#4672c4)"/>
+				<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#feffff)"/>
+				<v:ud v:nameU="TextNamePinX" v:prompt="" v:val="VT0(1.2385375655988):1"/>
+				<v:ud v:nameU="TextNamePinY" v:prompt="" v:val="VT0(0.79422371405644):1"/>
+				<v:ud v:nameU="TextListPinX" v:prompt="" v:val="VT0(1.2385375655988):1"/>
+				<v:ud v:nameU="TextListPinY" v:prompt="" v:val="VT0(0.79422371405644):1"/>
+			</v:userDefs>
+			<title>Executive pip.283</title>
+			<desc>Klanten</desc>
+			<g id="group284-185" transform="translate(89.1747,-57.1841)" v:mID="284" v:groupContext="group">
+				<v:userDefs>
+					<v:ud v:nameU="msvReplaceSubshapeID" v:prompt="" v:val="VT4(NameText)"/>
+					<v:ud v:nameU="Prop" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="BlockName" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="InUse" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CharSize" v:prompt="" v:val="VT0(0.11111111111111):29"/>
+					<v:ud v:nameU="Visible" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="Prop" v:prompt="" v:val="VT4(Name)"/>
+				</v:userDefs>
+				<title>Blad.284</title>
+				<g id="group285-186" transform="translate(-89.1747,57.1841)" v:mID="285" v:groupContext="group">
+					<title>Blad.285</title>
+					<g id="shape286-187" v:mID="286" v:groupContext="shape">
+						<title>Blad.286</title>
+						<v:userDefs>
+							<v:ud v:nameU="Embellishment" v:prompt="" v:val="VT0(2):26"/>
+							<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(0):26"/>
+							<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#000000)"/>
+							<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#96afcf)"/>
+							<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#1f477d)"/>
+							<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#000000)"/>
+							<v:ud v:nameU="msvQuickStyleVariationRestore" v:prompt="" v:val="VT0(0):26"/>
+							<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(3):26"/>
+							<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#4672c4)"/>
+							<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#4672c4)"/>
+							<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#c8c8c8)"/>
+							<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#feffff)"/>
+						</v:userDefs>
+						<path d="M0 491.23 L0 595.28 L194.56 595.28 L194.56 491.23 A14.5935 14.2467 -180 0 0 174.11 477.53 A94.7397
+									 31.4231 0 0 1 20.45 477.53 A14.5935 14.2467 -180 0 0 0 491.23 Z" class="st16"/>
+					</g>
+					<g id="shape287-189" v:mID="287" v:groupContext="shape" transform="translate(62.7077,-96.2608)">
+						<title>Blad.287</title>
+						<v:userDefs>
+							<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(0):26"/>
+							<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(3):26"/>
+						</v:userDefs>
+						<path d="M37.41 592.44 A2.83465 2.83465 -180 1 0 31.74 592.44 A2.83465 2.83465 -180 1 0 37.41 592.44 Z"
+								class="st4"/>
+					</g>
+					<g id="shape285-192" v:mID="285" v:groupContext="groupContent">
+						<rect x="0" y="490.511" width="194.563" height="104.765" class="st5"/>
+						<rect x="0" y="490.511" width="194.563" height="104.765" class="st13"/>
+					</g>
+				</g>
+				<g id="group288-195" transform="translate(94.0497,62.8534)" v:mID="288" v:groupContext="group">
+					<v:userDefs>
+						<v:ud v:nameU="DOPS" v:prompt="" v:val="VT0(1):27"/>
+					</v:userDefs>
+					<title>Blad.288</title>
+					<g id="shape288-196" v:mID="288" v:groupContext="groupContent">
+						<rect x="0" y="583.937" width="11.3386" height="11.3386" class="st7"/>
+					</g>
+					<g id="shape289-198" v:mID="289" v:groupContext="shape">
+						<title>Blad.289</title>
+						<rect x="3.40157" y="585.071" width="4.53543" height="3.40157" class="st8"/>
+					</g>
+					<g id="shape290-200" v:mID="290" v:groupContext="shape">
+						<title>Blad.290</title>
+					</g>
+				</g>
+			</g>
+			<g id="shape291-202" v:mID="291" v:groupContext="shape" transform="translate(16.2136,-14.7169)">
+				<title>Blad.291</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvsOrgPicture" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="msvReplaceSubshapeID" v:prompt="" v:val="VT4(OrgPicture)"/>
+					<v:ud v:nameU="PictureAspectRatio" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="PictureAreaAspectRatio" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="Visible" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="" v:val="VT0(3):26"/>
+				</v:userDefs>
+				<rect v:rectContext="foreign" x="0" y="530.421" width="64.8543" height="64.8543" class="st14"/>
+				<image x="0" y="530.421" width="64.8543" height="64.8543" preserveAspectRatio="none" xlink:href="data:image/png;base64,
+							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
+							3fsfH7WRHUGBjPoAAAAASUVORK5CYII="/>
+				<rect v:rectContext="foreign" x="0" y="530.421" width="64.8543" height="64.8543" class="st14"/>
+			</g>
+			<g id="shape283-206" v:mID="283" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" v:verticalAlign="2"/>
+				<v:textRect cx="141.869" cy="547.693" width="105.39" height="19.2035"/>
+				<rect x="0" y="490.511" width="194.563" height="104.765" class="st17"/>
+				<text x="89.17" y="545.29" class="st9" v:langID="1033"><v:paragraph/><v:tabList/>Klanten<v:newlineChar/></text>			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Gegenereerd door Microsoft Visio, SVG Export sequencediagram_inloggen.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="11.6929in" height="8.26772in"
+		viewBox="0 0 841.89 595.276" xml:space="preserve" color-interpolation-filters="sRGB" class="st10">
+	<v:documentProperties v:langID="1043" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:prompt="" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:#1e5054;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st2 {stroke:#1e5054;stroke-dasharray:7,5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st3 {fill:#102c2f;font-family:Calibri;font-size:1.00001em;font-weight:bold}
+		.st4 {fill:#ffffff;stroke:#af1513;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st5 {marker-end:url(#mrkr4-49);stroke:#af1513;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st6 {fill:#af1513;fill-opacity:1;stroke:#af1513;stroke-opacity:1;stroke-width:0.23584905660377}
+		.st7 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st8 {fill:#610c0b;font-family:Calibri;font-size:0.666664em}
+		.st9 {marker-end:url(#mrkr3-57);stroke:#af1513;stroke-dasharray:7,5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st10 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-49" class="st6" v:arrowType="4" v:arrowSize="3" v:setback="8.48" refX="-8.48" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-4.24,-4.24) "/>
+		</marker>
+		<g id="lend3">
+			<path d="M 2 1 L 0 0 L 2 -1 " style="stroke-linecap:round;stroke-linejoin:round;fill:none"/>
+		</g>
+		<marker id="mrkr3-57" class="st6" v:arrowType="3" v:arrowSize="3" orient="auto" markerUnits="strokeWidth"
+				overflow="visible">
+			<use xlink:href="#lend3" transform="scale(-4.24,-4.24) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+			<v:ud v:nameU="visNavType" v:val="VT0(1):26"/>
+		</v:userDefs>
+		<title>Pagina-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Verbindingslijn" v:index="0"/>
+		<g id="group88-1" transform="translate(122.68,-520.798)" v:mID="88" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ShowActor" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="ShowDestruction" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(1000):26"/>
+			</v:userDefs>
+			<title>Object lifeline</title>
+			<desc>Gebruiker</desc>
+			<g id="shape89-2" v:mID="89" v:groupContext="shape" transform="translate(21.2598,0)">
+				<title>Blad.89</title>
+				<rect x="0" y="569.764" width="51.0236" height="25.5118" class="st1"/>
+			</g>
+			<g id="shape90-4" v:mID="90" v:groupContext="shape" transform="translate(38.2677,-29.0551)">
+				<title>Blad.90</title>
+				<path d="M8.5 595.28 a0 0 0 1 1 0 0 a0 0 0 1 1 0 0 Z" class="st1"/>
+			</g>
+			<g id="shape91-6" v:mID="91" v:groupContext="shape" transform="translate(31.1811,311.641)">
+				<title>Blad.91</title>
+			</g>
+			<g id="shape92-8" v:mID="92" v:groupContext="shape" transform="translate(642.047,595.276) rotate(90)">
+				<title>Blad.92</title>
+				<path d="M0 595.28 L294.03 595.28" class="st2"/>
+			</g>
+			<g id="shape88-11" v:mID="88" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="46.7717" cy="582.52" width="93.55" height="25.5118"/>
+				<rect x="0" y="569.764" width="93.5433" height="25.5118" class="st1"/>
+				<text x="21.85" y="586.12" class="st3" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Gebruiker</text>			</g>
+		</g>
+		<g id="group113-14" transform="translate(378.425,-520.798)" v:mID="113" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ShowActor" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="ShowDestruction" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(2000):26"/>
+			</v:userDefs>
+			<title>Levenslijn van object.113</title>
+			<desc>Applicatie</desc>
+			<g id="shape114-15" v:mID="114" v:groupContext="shape" transform="translate(21.2598,0)">
+				<title>Blad.114</title>
+				<rect x="0" y="569.764" width="51.0236" height="25.5118" class="st1"/>
+			</g>
+			<g id="shape115-17" v:mID="115" v:groupContext="shape" transform="translate(38.2677,-29.0551)">
+				<title>Blad.115</title>
+				<path d="M8.5 595.28 a0 0 0 1 1 0 0 a0 0 0 1 1 0 0 Z" class="st1"/>
+			</g>
+			<g id="shape116-19" v:mID="116" v:groupContext="shape" transform="translate(31.1811,311.641)">
+				<title>Blad.116</title>
+			</g>
+			<g id="shape117-21" v:mID="117" v:groupContext="shape" transform="translate(642.047,595.276) rotate(90)">
+				<title>Blad.117</title>
+				<path d="M0 595.28 L294.03 595.28" class="st2"/>
+			</g>
+			<g id="shape113-24" v:mID="113" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="46.7717" cy="582.52" width="93.55" height="25.5118"/>
+				<rect x="0" y="569.764" width="93.5433" height="25.5118" class="st1"/>
+				<text x="21.7" y="586.12" class="st3" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Applicatie</text>			</g>
+		</g>
+		<g id="group118-27" transform="translate(633.178,-520.798)" v:mID="118" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ShowActor" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="ShowDestruction" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(3000):26"/>
+			</v:userDefs>
+			<title>Levenslijn van object.118</title>
+			<desc>Database</desc>
+			<g id="shape119-28" v:mID="119" v:groupContext="shape" transform="translate(21.2598,0)">
+				<title>Blad.119</title>
+				<rect x="0" y="569.764" width="51.0236" height="25.5118" class="st1"/>
+			</g>
+			<g id="shape120-30" v:mID="120" v:groupContext="shape" transform="translate(38.2677,-29.0551)">
+				<title>Blad.120</title>
+				<path d="M8.5 595.28 a0 0 0 1 1 0 0 a0 0 0 1 1 0 0 Z" class="st1"/>
+			</g>
+			<g id="shape121-32" v:mID="121" v:groupContext="shape" transform="translate(31.1811,311.641)">
+				<title>Blad.121</title>
+			</g>
+			<g id="shape122-34" v:mID="122" v:groupContext="shape" transform="translate(642.047,595.276) rotate(90)">
+				<title>Blad.122</title>
+				<path d="M0 595.28 L294.03 595.28" class="st2"/>
+			</g>
+			<g id="shape118-37" v:mID="118" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="46.7717" cy="582.52" width="93.55" height="25.5118"/>
+				<rect x="0" y="569.764" width="93.5433" height="25.5118" class="st1"/>
+				<text x="23.39" y="586.12" class="st3" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Database</text>			</g>
+		</g>
+		<g id="shape133-40" v:mID="133" v:groupContext="shape" transform="translate(-421.572,357.943) rotate(-90)">
+			<title>Activation</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(1500):26"/>
+			</v:userDefs>
+			<rect x="0" y="586.772" width="255.118" height="8.50394" class="st4"/>
+		</g>
+		<g id="shape135-42" v:mID="135" v:groupContext="shape" transform="translate(-165.827,170.079) rotate(-90)">
+			<title>Activering.135</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(2125):26"/>
+			</v:userDefs>
+			<rect x="0" y="586.772" width="67.2614" height="8.50394" class="st4"/>
+		</g>
+		<g id="shape221-44" v:mID="221" v:groupContext="shape" v:layerMember="0" transform="translate(169.452,-485.368)">
+			<title>Message.41</title>
+			<desc>aanvraag inlogprocedure</desc>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(1750):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="125.746" cy="588.189" width="90.93" height="17.6036"/>
+			<path d="M0 588.19 L243.01 588.19" class="st5"/>
+			<rect v:rectContext="textBkgnd" x="85.1881" y="583.389" width="81.1167" height="9.59985" class="st7"/>
+			<text x="85.19" y="590.59" class="st8" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>aanvraag inlogprocedure</text>		</g>
+		<g id="shape260-52" v:mID="260" v:groupContext="shape" v:layerMember="0" transform="translate(425.197,-329.459)">
+			<title>Retourbericht.44.260</title>
+			<desc>vraag wachtwoord</desc>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(13000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-127.872" cy="588.189" width="70.42" height="17.6036"/>
+			<path d="M0 588.19 L-255.74 588.19" class="st9"/>
+			<rect v:rectContext="textBkgnd" x="-158.175" y="583.389" width="60.6053" height="9.59985" class="st7"/>
+			<text x="-158.17" y="590.59" class="st8" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>vraag wachtwoord</text>		</g>
+		<g id="shape262-60" v:mID="262" v:groupContext="shape" v:layerMember="0" transform="translate(173.704,-315.286)">
+			<title>Bericht.41.262</title>
+			<desc>geef wachtwoord</desc>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(15000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="127.872" cy="602.362" width="66.76" height="17.6036"/>
+			<path d="M0 602.36 L247.26 602.36" class="st5"/>
+			<rect v:rectContext="textBkgnd" x="99.4021" y="597.562" width="56.9408" height="9.59985" class="st7"/>
+			<text x="99.4" y="604.76" class="st8" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>geef wachtwoord</text>		</g>
+		<g id="shape263-67" v:mID="263" v:groupContext="shape" transform="translate(-165.827,323.927) rotate(-90)">
+			<title>Activering.263</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(16000):26"/>
+			</v:userDefs>
+			<rect x="0" y="586.772" width="36.8504" height="8.50394" class="st4"/>
+		</g>
+		<g id="shape264-69" v:mID="264" v:groupContext="shape" v:layerMember="0" transform="translate(425.197,-278.435)">
+			<title>Bericht.41.264</title>
+			<desc>kijk of wachtwoord bij mail adress hoort</desc>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(17000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="127.376" cy="588.189" width="142.14" height="17.6036"/>
+			<path d="M0 588.19 L246.27 588.19" class="st5"/>
+			<rect v:rectContext="textBkgnd" x="62.1168" y="583.389" width="130.519" height="9.59985" class="st7"/>
+			<text x="62.12" y="590.59" class="st8" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>kijk of wachtwoord bij mail adress hoort  </text>		</g>
+		<g id="shape266-76" v:mID="266" v:groupContext="shape" transform="translate(1270.97,309.754) rotate(90)">
+			<title>Activering.266</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(19000):26"/>
+			</v:userDefs>
+			<rect x="0" y="586.772" width="26.8606" height="8.50394" class="st4"/>
+		</g>
+		<g id="shape268-78" v:mID="268" v:groupContext="shape" transform="translate(-165.827,350.787) rotate(-90)">
+			<title>Activering.268</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(21000):26"/>
+			</v:userDefs>
+			<rect x="0" y="586.772" width="14.1732" height="8.50394" class="st4"/>
+		</g>
+		<g id="shape269-80" v:mID="269" v:groupContext="shape" v:layerMember="0" transform="translate(420.945,-237.402)">
+			<title>Retourbericht.44.269</title>
+			<desc>Log-in</desc>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(22000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-127.872" cy="588.189" width="40" height="17.6036"/>
+			<path d="M0 588.19 L-255.74 588.19" class="st9"/>
+			<rect v:rectContext="textBkgnd" x="-137.79" y="583.389" width="19.8355" height="9.59985" class="st7"/>
+			<text x="-137.79" y="590.59" class="st8" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Log-in</text>		</g>
+		<g id="shape340-87" v:mID="340" v:groupContext="shape" v:layerMember="0" transform="translate(420.945,-433.691)">
+			<title>Retourbericht.44.340</title>
+			<desc>vraag om uniek mailadress</desc>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(23000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-123.62" cy="602.362" width="96.5" height="17.6036"/>
+			<path d="M0 600.95 L-247.24 603.77" class="st9"/>
+			<rect v:rectContext="textBkgnd" x="-166.962" y="597.562" width="86.683" height="9.59985" class="st7"/>
+			<text x="-166.96" y="604.76" class="st8" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>vraag om uniek mailadress</text>		</g>
+		<g id="shape341-94" v:mID="341" v:groupContext="shape" transform="translate(-165.827,216.21) rotate(-90)">
+			<title>Activering.341</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(24000):26"/>
+			</v:userDefs>
+			<rect x="0" y="586.772" width="28.3465" height="8.50394" class="st4"/>
+		</g>
+		<g id="shape342-96" v:mID="342" v:groupContext="shape" v:layerMember="0" transform="translate(173.704,-414.498)">
+			<title>Bericht.41.342</title>
+			<desc>geef uniek mail adress</desc>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(25000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="125.746" cy="602.362" width="82.23" height="17.6036"/>
+			<path d="M0 602.36 L243.01 602.36" class="st5"/>
+			<rect v:rectContext="textBkgnd" x="89.5419" y="597.562" width="72.4092" height="9.59985" class="st7"/>
+			<text x="89.54" y="604.76" class="st8" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>geef uniek mail adress</text>		</g>
+		<g id="shape343-103" v:mID="343" v:groupContext="shape" v:layerMember="0" transform="translate(425.197,-371.979)">
+			<title>Bericht.41.343</title>
+			<desc>check of mailadress al in gebruik is</desc>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(26000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="127.376" cy="588.189" width="121.96" height="17.6036"/>
+			<path d="M0 588.19 L246.27 588.19" class="st5"/>
+			<rect v:rectContext="textBkgnd" x="71.3066" y="583.389" width="112.139" height="9.59985" class="st7"/>
+			<text x="71.31" y="590.59" class="st8" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>check of mailadress al in gebruik is</text>		</g>
+		<g id="shape344-110" v:mID="344" v:groupContext="shape" transform="translate(88.9256,238.887) rotate(-90)">
+			<title>Activering.344</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(27000):26"/>
+			</v:userDefs>
+			<rect x="0" y="586.772" width="36.8504" height="8.50394" class="st4"/>
+		</g>
+		<g id="shape345-112" v:mID="345" v:groupContext="shape" transform="translate(-165.827,272.903) rotate(-90)">
+			<title>Activering.345</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(28000):26"/>
+			</v:userDefs>
+			<rect x="0" y="586.772" width="36.8504" height="8.50394" class="st4"/>
+		</g>
+		<g id="shape346-114" v:mID="346" v:groupContext="shape" v:layerMember="0" transform="translate(675.697,-347.244)">
+			<title>Retourbericht.346</title>
+			<desc>mail adress in gebruik ja of nee</desc>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(29000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-125.25" cy="588.189" width="110.65" height="17.6036"/>
+			<path d="M0 588.19 L-250.5 588.19" class="st9"/>
+			<rect v:rectContext="textBkgnd" x="-175.666" y="583.389" width="100.831" height="9.59985" class="st7"/>
+			<text x="-175.67" y="590.59" class="st8" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>mail adress in gebruik ja of nee</text>		</g>
+		<g id="shape347-121" v:mID="347" v:groupContext="shape" v:layerMember="0" transform="translate(675.697,-251.575)">
+			<title>Retourbericht.44</title>
+			<desc>wachtwoord hoort er bij ja of nee</desc>
+			<v:userDefs>
+				<v:ud v:nameU="IsReturn" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="IsAsync" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="IsSelfMessage" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="visNavOrder" v:val="VT0(30000):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-123.124" cy="588.189" width="119.04" height="17.6036"/>
+			<path d="M0 588.19 L-246.25 588.19" class="st9"/>
+			<rect v:rectContext="textBkgnd" x="-177.733" y="583.389" width="109.218" height="9.59985" class="st7"/>
+			<text x="-177.73" y="590.59" class="st8" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>wachtwoord hoort er bij ja of nee</text>		</g>
+	</g>
+</svg>

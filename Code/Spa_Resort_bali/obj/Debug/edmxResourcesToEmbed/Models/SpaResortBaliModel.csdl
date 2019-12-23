@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Spa_Resort_Bali_DatabaseModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Addresses">
+    <Key>
+      <PropertyRef Name="AdresId" />
+    </Key>
+    <Property Name="AdresId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PostCode" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Streed" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="HouseNumber" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="City" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Counrty" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="State" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="AspNetUsers" Relationship="Self.FK_AspNetUsers_Addresses" FromRole="Addresses" ToRole="AspNetUsers" />
+    <NavigationProperty Name="Lodges" Relationship="Self.FK_Lodges_Addresses" FromRole="Addresses" ToRole="Lodges" />
+  </EntityType>
+  <EntityType Name="AspNetRoles">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="256" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="AspNetUsers" Relationship="Self.AspNetUserRoles" FromRole="AspNetRoles" ToRole="AspNetUsers" />
+  </EntityType>
+  <EntityType Name="AspNetUserClaims">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ClaimType" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="ClaimValue" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="AspNetUsers" Relationship="Self.FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId" FromRole="AspNetUserClaims" ToRole="AspNetUsers" />
+  </EntityType>
+  <EntityType Name="AspNetUserLogins">
+    <Key>
+      <PropertyRef Name="LoginProvider" />
+      <PropertyRef Name="ProviderKey" />
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="LoginProvider" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ProviderKey" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="UserId" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="AspNetUsers" Relationship="Self.FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId" FromRole="AspNetUserLogins" ToRole="AspNetUsers" />
+  </EntityType>
+  <EntityType Name="AspNetUsers">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="256" FixedLength="false" Unicode="true" />
+    <Property Name="EmailConfirmed" Type="Boolean" Nullable="false" />
+    <Property Name="PasswordHash" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="SecurityStamp" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="PhoneNumber" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="PhoneNumberConfirmed" Type="Boolean" Nullable="false" />
+    <Property Name="TwoFactorEnabled" Type="Boolean" Nullable="false" />
+    <Property Name="LockoutEndDateUtc" Type="DateTime" Precision="3" />
+    <Property Name="LockoutEnabled" Type="Boolean" Nullable="false" />
+    <Property Name="AccessFailedCount" Type="Int32" Nullable="false" />
+    <Property Name="UserName" Type="String" MaxLength="256" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="AdressId" Type="Int32" />
+    <Property Name="Firstname" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Lastname" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="DateOfBirth" Type="DateTime" Precision="7" />
+    <Property Name="ClientNumber" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Addresses" Relationship="Self.FK_AspNetUsers_Addresses" FromRole="AspNetUsers" ToRole="Addresses" />
+    <NavigationProperty Name="AspNetUserClaims" Relationship="Self.FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId" FromRole="AspNetUsers" ToRole="AspNetUserClaims" />
+    <NavigationProperty Name="AspNetUserLogins" Relationship="Self.FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId" FromRole="AspNetUsers" ToRole="AspNetUserLogins" />
+    <NavigationProperty Name="Bookings" Relationship="Self.FK_Bookings_AspNetUsers" FromRole="AspNetUsers" ToRole="Bookings" />
+    <NavigationProperty Name="AspNetRoles" Relationship="Self.AspNetUserRoles" FromRole="AspNetUsers" ToRole="AspNetRoles" />
+  </EntityType>
+  <EntityType Name="Bookings">
+    <Key>
+      <PropertyRef Name="BookingId" />
+    </Key>
+    <Property Name="BookingId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CheckInDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="CheckOutDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="UserId" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="LodgeId" Type="Int32" Nullable="false" />
+    <Property Name="Discount" Type="Int32" Nullable="false" />
+    <Property Name="Price" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+    <NavigationProperty Name="AspNetUsers" Relationship="Self.FK_Bookings_AspNetUsers" FromRole="Bookings" ToRole="AspNetUsers" />
+    <NavigationProperty Name="Lodges" Relationship="Self.FK_Bookings_Lodges" FromRole="Bookings" ToRole="Lodges" />
+    <Property Name="Canceled" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Lodges">
+    <Key>
+      <PropertyRef Name="LodgeId" />
+    </Key>
+    <Property Name="LodgeId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="LodgeTypeId" Type="Int32" Nullable="false" />
+    <Property Name="AdresId" Type="Int32" Nullable="false" />
+    <Property Name="Code" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Addresses" Relationship="Self.FK_Lodges_Addresses" FromRole="Lodges" ToRole="Addresses" />
+    <NavigationProperty Name="Bookings" Relationship="Self.FK_Bookings_Lodges" FromRole="Lodges" ToRole="Bookings" />
+    <NavigationProperty Name="LodgeTypes" Relationship="Self.FK_Lodges_LodgeTypes" FromRole="Lodges" ToRole="LodgeTypes" />
+    <Property Name="Disabled" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityType Name="LodgeTypes">
+    <Key>
+      <PropertyRef Name="LodgeTypeId" />
+    </Key>
+    <Property Name="LodgeTypeId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Surface" Type="Int32" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="MaxPersons" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Lodges" Relationship="Self.FK_Lodges_LodgeTypes" FromRole="LodgeTypes" ToRole="Lodges" />
+    <NavigationProperty Name="LodgePrice" Relationship="Spa_Resort_Bali_DatabaseModel.FK_LodgePrice_LodgeTypes" FromRole="LodgeTypes" ToRole="LodgePrice" />
+    <Property Name="Picture" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="Disabled" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_AspNetUsers_Addresses">
+    <End Role="Addresses" Type="Self.Addresses" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="AspNetUsers" Type="Self.AspNetUsers" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Addresses">
+        <PropertyRef Name="AdresId" />
+      </Principal>
+      <Dependent Role="AspNetUsers">
+        <PropertyRef Name="AdressId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Lodges_Addresses">
+    <End Role="Addresses" Type="Self.Addresses" Multiplicity="1" />
+    <End Role="Lodges" Type="Self.Lodges" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Addresses">
+        <PropertyRef Name="AdresId" />
+      </Principal>
+      <Dependent Role="Lodges">
+        <PropertyRef Name="AdresId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId">
+    <End Role="AspNetUsers" Type="Self.AspNetUsers" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="AspNetUserClaims" Type="Self.AspNetUserClaims" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AspNetUsers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="AspNetUserClaims">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId">
+    <End Role="AspNetUsers" Type="Self.AspNetUsers" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="AspNetUserLogins" Type="Self.AspNetUserLogins" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AspNetUsers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="AspNetUserLogins">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Bookings_AspNetUsers">
+    <End Role="AspNetUsers" Type="Self.AspNetUsers" Multiplicity="1" />
+    <End Role="Bookings" Type="Self.Bookings" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AspNetUsers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Bookings">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Bookings_Lodges">
+    <End Role="Lodges" Type="Self.Lodges" Multiplicity="1" />
+    <End Role="Bookings" Type="Self.Bookings" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Lodges">
+        <PropertyRef Name="LodgeId" />
+      </Principal>
+      <Dependent Role="Bookings">
+        <PropertyRef Name="LodgeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Lodges_LodgeTypes">
+    <End Role="LodgeTypes" Type="Self.LodgeTypes" Multiplicity="1" />
+    <End Role="Lodges" Type="Self.Lodges" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LodgeTypes">
+        <PropertyRef Name="LodgeTypeId" />
+      </Principal>
+      <Dependent Role="Lodges">
+        <PropertyRef Name="LodgeTypeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="AspNetUserRoles">
+    <End Role="AspNetRoles" Type="Self.AspNetRoles" Multiplicity="*" />
+    <End Role="AspNetUsers" Type="Self.AspNetUsers" Multiplicity="*" />
+  </Association>
+  <EntityContainer Name="Spa_Resort_Bali_DatabaseEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Addresses" EntityType="Self.Addresses" />
+    <EntitySet Name="AspNetRoles" EntityType="Self.AspNetRoles" />
+    <EntitySet Name="AspNetUserClaims" EntityType="Self.AspNetUserClaims" />
+    <EntitySet Name="AspNetUserLogins" EntityType="Self.AspNetUserLogins" />
+    <EntitySet Name="AspNetUsers" EntityType="Self.AspNetUsers" />
+    <EntitySet Name="Bookings" EntityType="Self.Bookings" />
+    <EntitySet Name="Lodges" EntityType="Self.Lodges" />
+    <EntitySet Name="LodgeTypes" EntityType="Self.LodgeTypes" />
+    <AssociationSet Name="FK_AspNetUsers_Addresses" Association="Self.FK_AspNetUsers_Addresses">
+      <End Role="Addresses" EntitySet="Addresses" />
+      <End Role="AspNetUsers" EntitySet="AspNetUsers" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Lodges_Addresses" Association="Self.FK_Lodges_Addresses">
+      <End Role="Addresses" EntitySet="Addresses" />
+      <End Role="Lodges" EntitySet="Lodges" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId" Association="Self.FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId">
+      <End Role="AspNetUsers" EntitySet="AspNetUsers" />
+      <End Role="AspNetUserClaims" EntitySet="AspNetUserClaims" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId" Association="Self.FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId">
+      <End Role="AspNetUsers" EntitySet="AspNetUsers" />
+      <End Role="AspNetUserLogins" EntitySet="AspNetUserLogins" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Bookings_AspNetUsers" Association="Self.FK_Bookings_AspNetUsers">
+      <End Role="AspNetUsers" EntitySet="AspNetUsers" />
+      <End Role="Bookings" EntitySet="Bookings" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Bookings_Lodges" Association="Self.FK_Bookings_Lodges">
+      <End Role="Lodges" EntitySet="Lodges" />
+      <End Role="Bookings" EntitySet="Bookings" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Lodges_LodgeTypes" Association="Self.FK_Lodges_LodgeTypes">
+      <End Role="LodgeTypes" EntitySet="LodgeTypes" />
+      <End Role="Lodges" EntitySet="Lodges" />
+    </AssociationSet>
+    <AssociationSet Name="AspNetUserRoles" Association="Self.AspNetUserRoles">
+      <End Role="AspNetRoles" EntitySet="AspNetRoles" />
+      <End Role="AspNetUsers" EntitySet="AspNetUsers" />
+    </AssociationSet>
+    <FunctionImport Name="spGetDiscount" ReturnType="Collection(Double)">
+      <Parameter Name="CHECKINDATE" Mode="In" Type="DateTime" />
+    </FunctionImport>
+    <FunctionImport Name="spGetLodgePrice" ReturnType="Collection(Decimal)">
+      <Parameter Name="CHECKINDATE" Mode="In" Type="DateTime" />
+      <Parameter Name="LODGECODE" Mode="In" Type="String" />
+    </FunctionImport>
+    <EntitySet Name="Discounts" EntityType="Spa_Resort_Bali_DatabaseModel.Discounts" />
+    <EntitySet Name="LodgePrice" EntityType="Spa_Resort_Bali_DatabaseModel.LodgePrice" />
+    <AssociationSet Name="FK_LodgePrice_LodgeTypes" Association="Spa_Resort_Bali_DatabaseModel.FK_LodgePrice_LodgeTypes">
+      <End Role="LodgeTypes" EntitySet="LodgeTypes" />
+      <End Role="LodgePrice" EntitySet="LodgePrice" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Discounts">
+    <Key>
+      <PropertyRef Name="Month" />
+      <PropertyRef Name="Year" />
+    </Key>
+    <Property Name="Month" Type="Int32" Nullable="false" />
+    <Property Name="Discount" Type="Double" Nullable="false" />
+    <Property Name="Year" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="LodgePrice">
+    <Key>
+      <PropertyRef Name="StartingDate" />
+      <PropertyRef Name="LodgeTypeId" />
+    </Key>
+    <Property Name="StartingDate" Type="DateTime" Nullable="false" Precision="7" />
+    <Property Name="EndDate" Type="DateTime" Precision="7" />
+    <Property Name="price" Type="Decimal" Nullable="false" Precision="19" Scale="4" />
+    <Property Name="LodgeTypeId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="LodgeTypes" Relationship="Spa_Resort_Bali_DatabaseModel.FK_LodgePrice_LodgeTypes" FromRole="LodgePrice" ToRole="LodgeTypes" />
+  </EntityType>
+  <Association Name="FK_LodgePrice_LodgeTypes">
+    <End Type="Spa_Resort_Bali_DatabaseModel.LodgeTypes" Role="LodgeTypes" Multiplicity="1" />
+    <End Type="Spa_Resort_Bali_DatabaseModel.LodgePrice" Role="LodgePrice" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LodgeTypes">
+        <PropertyRef Name="LodgeTypeId" />
+      </Principal>
+      <Dependent Role="LodgePrice">
+        <PropertyRef Name="LodgeTypeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
