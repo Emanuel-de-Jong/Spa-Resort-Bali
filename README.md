@@ -9,7 +9,7 @@ It's a site where you can make an account and book/manage your lodges.
 - Type: Web Application
 - Language: English
 - Programming languages: C#, HTML, CSS, JS, SQL
-- Frameworks and libraries: ASP.NET MVC, Bootstrap, .NET Framework
+- Frameworks and libraries: ASP.NET MVC, .NET Framework, Bootstrap, DataTables
 
 
 ## Progress
