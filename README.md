@@ -8,23 +8,20 @@ It's a site where you can make an account and book/manage your lodges.
 ## Information
 - Type: Web Application
 - Language: English
-- Programming languages: 
-- Frameworks and libraries: 
+- Programming languages: C#, HTML, CSS, JS, SQL
+- Frameworks and libraries: ASP.NET MVC, Bootstrap
 
 
 ## Progress
-- Start date: 
-- Last change: 
-- Activity status: 
-- Reason activity status: 
-- Completion status: 
-- Useable: 
-- Reason useability: 
-- Main features included: 
-- Main features missing: 
+- Start date: 03.09.19
+- Last change: 15.11.19
+- Activity status: Complete
 
 
 ## Screenshots
-![](/Screenshots/.png)
+These are all screenshots of the mockup because the database is down. But it looks similar enough.
+![Home](/Screenshots/Home.png)
 
-![](/Screenshots/.png)
+![Register](/Screenshots/Register.png)
+
+![Home Mobile](/Screenshots/Home%20Mobile.gif)
